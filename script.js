@@ -13,6 +13,9 @@ fetch('dramas.json')
 function displayDramas(dramas) {
     const container = document.getElementById('drama-container');
     
+    // Update drama count
+    document.getElementById('drama-count').textContent = dramas.length;
+    
     dramas.forEach(drama => {
         const card = document.createElement('div');
         card.className = 'drama-card';

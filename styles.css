@@ -104,3 +104,14 @@ header p {
 .tmdb-credit a:hover {
     text-decoration: underline;
 }
+.controls-container {
+    max-width: 1400px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.drama-count {
+    font-size: 1.1em;
+    color: white;
+    font-weight: 500;
+}
