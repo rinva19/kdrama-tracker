@@ -18,15 +18,19 @@ for record in records:
     fields = record['fields']
     
     clean_drama = {
-        'title': fields.get('Title', 'Unknown'),
-        'rating': fields.get('Rating'),
-        'year': fields.get('Year Released'),
-        'genres': fields.get('Genre', []),
-        'country': fields.get('Country of Origin'),
-        'poster': fields.get('Poster', [{}])[0].get('url') if fields.get('Poster') else None,
-        'status': fields.get('Viewing Status', ['Unknown'])[0],
-        'channel': fields.get('Channel', []),
-    }
+    'title': fields.get('Title', 'Unknown'),
+    'rating': fields.get('Rating'),
+    'year': fields.get('Year Released'),
+    'genres': fields.get('Genre', []),
+    'country': fields.get('Country of Origin'),
+    'poster': fields.get('Poster', [{}])[0].get('url') if fields.get('Poster') else None,
+    'status': fields.get('Viewing Status', ['Unknown'])[0],
+    'channel': fields.get('Channel', []),
+    'actors': fields.get('Actors', []),
+    'actresses': fields.get('Actresses', []),
+    'dateFinished': fields.get('Date Finished'),
+    'kdramaGroup': fields.get('Kdrama Mamas'),
+}
     
     clean_dramas.append(clean_drama)
 

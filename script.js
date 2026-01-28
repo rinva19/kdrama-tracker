@@ -23,18 +23,23 @@ function displayDramas(dramas) {
             ? drama.genres.map(g => `<span class="genre-tag">${g}</span>`).join('') 
             : '';
         
-        card.innerHTML = `
-            <img src="${posterUrl}" alt="${drama.title}" class="drama-poster">
-            <div class="drama-info">
-                <div class="drama-title">${drama.title}</div>
-                <div class="drama-details">
-                    <div class="rating">${rating}</div>
-                    <div>${drama.year || 'Year unknown'}</div>
-                    <div>${drama.country || ''}</div>
-                    <div class="genres">${genres}</div>
-                </div>
-            </div>
-        `;
+        const actors = drama.actors && drama.actors.length > 0 ? `Actors: ${drama.actors.length}` : '';
+const actresses = drama.actresses && drama.actresses.length > 0 ? `Actresses: ${drama.actresses.length}` : '';
+
+card.innerHTML = `
+    <img src="${posterUrl}" alt="${drama.title}" class="drama-poster">
+    <div class="drama-info">
+        <div class="drama-title">${drama.title}</div>
+        <div class="drama-details">
+            <div class="rating">${rating}</div>
+            <div>${drama.year || 'Year unknown'}</div>
+            <div>${drama.country || ''}</div>
+            ${actors ? `<div>${actors}</div>` : ''}
+            ${actresses ? `<div>${actresses}</div>` : ''}
+            <div class="genres">${genres}</div>
+        </div>
+    </div>
+`;
         
         container.appendChild(card);
     });
