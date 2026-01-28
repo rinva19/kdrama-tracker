@@ -23,7 +23,7 @@ for record in records:
     'year': fields.get('Year Released'),
     'genres': fields.get('Genre', []),
     'country': fields.get('Country of Origin'),
-    'poster': fields.get('Poster', [{}])[0].get('url') if fields.get('Poster') else None,
+    'poster': fields.get('Poster URL'),
     'status': fields.get('Viewing Status', ['Unknown'])[0],
     'channel': fields.get('Channel', []),
     'actors': fields.get('Actors', []),
