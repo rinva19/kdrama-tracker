@@ -108,10 +108,45 @@ header p {
     max-width: 1400px;
     margin: 20px auto;
     padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
 .drama-count {
     font-size: 1.1em;
     color: white;
     font-weight: 500;
+}
+
+.controls-right {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.control-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.1em;
+    color: white;
+}
+
+.control-group label {
+    font-weight: 500;
+}
+
+.control-group select {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #2C5F7C;
+    background: white;
+    color: #2C5F7C;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.control-group select:hover {
+    background: #f0f0f0;
 }

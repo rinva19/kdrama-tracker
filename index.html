@@ -15,9 +15,37 @@
     
     <div class="controls-container">
         <div class="drama-count">Showing <span id="drama-count">0</span> dramas</div>
+        <div class="controls-right">
+            <div class="control-group">
+                <label for="sort-select">Sort by:</label>
+                <select id="sort-select">
+                    <option value="title-asc">Title (A-Z)</option>
+                    <option value="title-desc">Title (Z-A)</option>
+                    <option value="rating-desc">Rating (High-Low)</option>
+                    <option value="rating-asc">Rating (Low-High)</option>
+                    <option value="year-desc">Year (Newest)</option>
+                    <option value="year-asc">Year (Oldest)</option>
+                    <option value="date-desc">Date Finished (Recent)</option>
+                    <option value="date-asc">Date Finished (Oldest)</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label for="filter-select">Filter by:</label>
+                <select id="filter-select">
+                    <option value="all">All Dramas</option>
+                    <option value="rating-5">5 Stars</option>
+                    <option value="rating-4">4 Stars</option>
+                    <option value="rating-3">3 Stars</option>
+                    <option value="rating-1-2">1 & 2 Stars</option>
+                    <option value="kdrama-group">Kdrama Group</option>
+                </select>
+            </div>
+        </div>
     </div>
     
     <main id="drama-container">
+        <!-- Dramas will be loaded here by JavaScript -->
+    </main>
     
     <script src="script.js"></script>
 </body>
