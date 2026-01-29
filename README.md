@@ -34,7 +34,7 @@ When you add new dramas to Airtable:
 
 ## Features
 
-- **387 drama posters** automatically fetched from TMDb
+- **Drama posters** automatically fetched from TMDb
 - **Dynamic counter** showing number of dramas displayed
 - **Sorting options:**
   - Title (A-Z or Z-A)
