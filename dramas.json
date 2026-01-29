@@ -10847,7 +10847,7 @@
   },
   {
     "title": "Idol I",
-    "rating": null,
+    "rating": 3,
     "year": "2025",
     "genres": [
       "Idol",
@@ -10856,7 +10856,7 @@
     ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/pKJLNbUh4uO2jwGsMfP4B37pamS.jpg",
-    "status": "In Progress",
+    "status": "Watched",
     "channel": [
       "Netflix"
     ],
@@ -10866,7 +10866,7 @@
     "actresses": [
       "Choi Sooyoung"
     ],
-    "dateFinished": null,
+    "dateFinished": "2026-01-28",
     "kdramaGroup": null
   },
   {
