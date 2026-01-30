@@ -14,12 +14,18 @@
     </header>
     
     <div class="controls-container">
-        <div class="drama-count">Showing <span id="drama-count">0</span> dramas</div>
+        <div class="controls-left">
+            <div class="search-container">
+                <input type="text" id="search-box" placeholder="Search dramas, actors, genres..." />
+                <div id="autocomplete-dropdown" class="autocomplete-dropdown"></div>
+            </div>
+            <div class="drama-count">Showing <span id="drama-count">0</span> dramas</div>
+        </div>
         <div class="controls-right">
             <div class="control-group">
                 <label for="sort-select">Sort by:</label>
                 <select id="sort-select">
-                    <option value="title-asc">Title (A-Z)</option>
+                    <option value="title-asc" selected>Title (A-Z)</option>
                     <option value="title-desc">Title (Z-A)</option>
                     <option value="rating-desc">Rating (High-Low)</option>
                     <option value="rating-asc">Rating (Low-High)</option>
@@ -40,6 +46,7 @@
                     <option value="kdrama-group">Kdrama Group</option>
                 </select>
             </div>
+        </div>
         </div>
     </div>
     

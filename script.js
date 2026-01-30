@@ -6,6 +6,8 @@ fetch('dramas.json')
     .then(response => response.json())
     .then(dramas => {
         allDramas = dramas;
+        // Sort alphabetically by default
+        allDramas.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
         displayDramas(allDramas);
         setupControls();
     })
@@ -27,6 +29,9 @@ function displayDramas(dramas) {
         card.className = 'drama-card';
         
         const posterUrl = drama.poster || 'https://via.placeholder.com/250x350?text=No+Poster';
+        const kdramaGroupBadge = drama.kdramaGroup && drama.kdramaGroup > 0 
+            ? `<div class="kdrama-badge">${drama.kdramaGroup}</div>` 
+            : '';
         const rating = drama.rating ? `⭐ ${drama.rating}/5` : 'Not rated';
         const genres = drama.genres && drama.genres.length > 0 
             ? drama.genres.map(g => `<span class="genre-tag">${g}</span>`).join('') 
@@ -37,6 +42,7 @@ function displayDramas(dramas) {
 
         card.innerHTML = `
             <img src="${posterUrl}" alt="${drama.title}" class="drama-poster">
+            ${kdramaGroupBadge}
             <div class="drama-info">
                 <div class="drama-title">${drama.title}</div>
                 <div class="drama-details">
@@ -57,13 +63,101 @@ function displayDramas(dramas) {
 function setupControls() {
     const sortSelect = document.getElementById('sort-select');
     const filterSelect = document.getElementById('filter-select');
+    const searchBox = document.getElementById('search-box');
     
     sortSelect.addEventListener('change', applyFiltersAndSort);
     filterSelect.addEventListener('change', applyFiltersAndSort);
+    searchBox.addEventListener('input', (e) => {
+        const searchText = e.target.value.toLowerCase();
+        showAutocomplete(searchText);
+        applyFiltersAndSort();
+    });
 }
 
+function showAutocomplete(searchText) {
+    const dropdown = document.getElementById('autocomplete-dropdown');
+    
+    if (!searchText || searchText.length < 2) {
+        dropdown.classList.remove('show');
+        dropdown.innerHTML = '';
+        return;
+    }
+    
+    // Collect all unique searchable terms
+    const suggestions = new Set();
+    
+    allDramas.forEach(drama => {
+        // Add title if it matches
+        if (drama.title && drama.title.toLowerCase().includes(searchText)) {
+            suggestions.add(drama.title);
+        }
+        
+        // Add matching actors
+        (drama.actors || []).forEach(actor => {
+            if (actor.toLowerCase().includes(searchText)) {
+                suggestions.add(actor);
+            }
+        });
+        
+        // Add matching actresses
+        (drama.actresses || []).forEach(actress => {
+            if (actress.toLowerCase().includes(searchText)) {
+                suggestions.add(actress);
+            }
+        });
+        
+        // Add matching genres
+        (drama.genres || []).forEach(genre => {
+            if (genre.toLowerCase().includes(searchText)) {
+                suggestions.add(genre);
+            }
+        });
+    });
+    
+    // Convert to array and limit to 10 suggestions
+    const suggestionArray = Array.from(suggestions).slice(0, 10);
+    
+    if (suggestionArray.length === 0) {
+        dropdown.classList.remove('show');
+        dropdown.innerHTML = '';
+        return;
+    }
+    
+    // Create dropdown items
+    dropdown.innerHTML = suggestionArray
+        .map(item => `<div class="autocomplete-item">${item}</div>`)
+        .join('');
+    
+    dropdown.classList.add('show');
+    
+    // Add click handlers
+    dropdown.querySelectorAll('.autocomplete-item').forEach(item => {
+        item.addEventListener('click', () => {
+            document.getElementById('search-box').value = item.textContent;
+            dropdown.classList.remove('show');
+            applyFiltersAndSort();
+        });
+    });
+}
 function applyFiltersAndSort() {
     let filteredDramas = [...allDramas];
+    
+    // Apply search
+    const searchText = document.getElementById('search-box').value.toLowerCase();
+    if (searchText) {
+        filteredDramas = filteredDramas.filter(drama => {
+            // Search in title, actors, actresses, genres, country
+            const searchableText = [
+                drama.title,
+                ...(drama.actors || []),
+                ...(drama.actresses || []),
+                ...(drama.genres || []),
+                drama.country
+            ].join(' ').toLowerCase();
+            
+            return searchableText.includes(searchText);
+        });
+    }
     
     // Apply filter
     const filterValue = document.getElementById('filter-select').value;

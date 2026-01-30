@@ -16,7 +16,7 @@ TMDB_BASE_URL = "https://api.themoviedb.org/3"
 TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 
 def search_tmdb_drama(drama_title, year=None):
-    """Search TMDb for drama and get poster URL"""
+    """Search TMDb for drama and get poster URL and plot summary"""
     try:
         # Search for TV show
         search_url = f"{TMDB_BASE_URL}/search/tv"
@@ -30,44 +30,52 @@ def search_tmdb_drama(drama_title, year=None):
             params["first_air_date_year"] = year
         
         response = requests.get(search_url, params=params)
-        print(f"  API Response Status: {response.status_code}")
         
         if response.status_code != 200:
             print(f"  ❌ TMDb API error for: {drama_title}")
-            print(f"  Response: {response.text[:200]}")
+            return None, None
         
         data = response.json()
         results = data.get('results', [])
         
         if not results:
             print(f"  ⚠️  No results found for: {drama_title}")
-            return None
+            return None, None
         
-        # Get first result's poster
+        # Get first result's poster and summary
         first_result = results[0]
         poster_path = first_result.get('poster_path')
+        overview = first_result.get('overview', '')
         
-        if poster_path:
-            poster_url = f"{TMDB_IMAGE_BASE}{poster_path}"
-            print(f"  ✅ Found poster: {drama_title} ({first_result.get('name', 'Unknown')})")
-            return poster_url
+        poster_url = f"{TMDB_IMAGE_BASE}{poster_path}" if poster_path else None
+        
+        if poster_url:
+            print(f"  ✅ Found data: {drama_title} ({first_result.get('name', 'Unknown')})")
         else:
             print(f"  ⚠️  No poster available for: {drama_title}")
-            return None
+            
+        return poster_url, overview
             
     except Exception as e:
         print(f"  ❌ Error for {drama_title}: {str(e)}")
-        return None
+        return None, None
 
-def update_airtable_poster(record_id, poster_url):
-    """Update Airtable record with poster URL"""
+def update_airtable_data(record_id, poster_url, plot_summary):
+    """Update Airtable record with poster URL and plot summary"""
     try:
         url = f"{AIRTABLE_URL}/{record_id}"
-        data = {
-            "fields": {
-                "Poster URL": poster_url
-            }
-        }
+        
+        # Build fields to update (only include what we have)
+        fields = {}
+        if poster_url:
+            fields["Poster URL"] = poster_url
+        if plot_summary:
+            fields["Plot Summary"] = plot_summary
+            
+        if not fields:
+            return False
+            
+        data = {"fields": fields}
         response = requests.patch(url, json=data, headers=airtable_headers)
         return response.status_code == 200
     except Exception as e:
@@ -106,21 +114,22 @@ def main():
         title = fields.get('Title', 'Unknown')
         year = fields.get('Year Released')
         
-        # Skip if already has poster URL
+        # Skip if already has BOTH poster URL and plot summary
         existing_poster = fields.get('Poster URL')
-        if existing_poster:
-            print(f"[{i}/{len(test_records)}] Skipping: {title} (already has poster)")
+        existing_summary = fields.get('Plot Summary')
+        if existing_poster and existing_summary:
+            print(f"[{i}/{len(test_records)}] Skipping: {title} (already has data)")
             success_count += 1
             continue
         
         print(f"[{i}/{len(test_records)}] Processing: {title}")
         
-        # Search TMDb for poster
-        poster_url = search_tmdb_drama(title, year)
+        # Search TMDb for poster and summary
+        poster_url, plot_summary = search_tmdb_drama(title, year)
         
-        if poster_url:
-            # Update Airtable
-            if update_airtable_poster(record_id, poster_url):
+        if poster_url or plot_summary:
+            # Update Airtable with both
+            if update_airtable_data(record_id, poster_url, plot_summary):
                 success_count += 1
             else:
                 fail_count += 1
@@ -130,8 +139,7 @@ def main():
         # Be polite to TMDb API
         time.sleep(0.3)
         
-    print(f"\n✅ Test complete! Success: {success_count}, Failed: {fail_count}")
-    print("If results look good, change [:5] to process all dramas!")
+    print(f"\n✅ Complete! Success: {success_count}, Failed: {fail_count}")
 
 if __name__ == "__main__":
     main()
