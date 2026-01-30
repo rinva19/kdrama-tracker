@@ -7,10 +7,22 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
+<header>
         <h1>🎬 K-Dramas</h1>
-        <p>Rebecca's Watch History</p>
+        <p>Rebecca's Watch History • All ratings are my own <span class="rating-info" id="rating-info-trigger">⭐</span></p>
         <p class="tmdb-credit">Poster images provided by <a href="https://www.themoviedb.org/" target="_blank">TMDb</a></p>
+        
+        <div id="rating-modal" class="rating-modal">
+            <div class="rating-modal-content">
+                <span class="close-modal">&times;</span>
+                <h3>Rebecca's Rating Scale</h3>
+                <p><strong>⭐⭐⭐⭐⭐ 5 Stars:</strong> Excellent - Loved it</p>
+                <p><strong>⭐⭐⭐⭐ 4 Stars:</strong> Really Good - Enjoyed it</p>
+                <p><strong>⭐⭐⭐ 3 Stars:</strong> Good - Worth watching</p>
+                <p><strong>⭐⭐ 2 Stars:</strong> Finished - Not great</p>
+                <p><strong>⭐ 1 Star:</strong> Abandoned - Couldn't finish</p>
+            </div>
+        </div>
     </header>
     
     <div class="controls-container">
@@ -42,7 +54,8 @@
                     <option value="rating-5">5 Stars</option>
                     <option value="rating-4">4 Stars</option>
                     <option value="rating-3">3 Stars</option>
-                    <option value="rating-1-2">1 & 2 Stars</option>
+                    <option value="rating-2">2 Stars</option>
+                    <option value="rating-1">1 Star</option>
                     <option value="kdrama-group">Kdrama Group</option>
                 </select>
             </div>

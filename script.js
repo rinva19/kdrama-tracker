@@ -178,9 +178,11 @@ function applyFiltersAndSort() {
         filteredDramas = filteredDramas.filter(d => d.rating === 4);
     } else if (filterValue === 'rating-3') {
         filteredDramas = filteredDramas.filter(d => d.rating === 3);
-    } else if (filterValue === 'rating-1-2') {
-        filteredDramas = filteredDramas.filter(d => d.rating === 1 || d.rating === 2);
-   } else if (filterValue === 'kdrama-group') {
+    } else if (filterValue === 'rating-2') {
+        filteredDramas = filteredDramas.filter(d => d.rating === 2);
+    } else if (filterValue === 'rating-1') {
+        filteredDramas = filteredDramas.filter(d => d.rating === 1);
+    } else if (filterValue === 'kdrama-group') {
         filteredDramas = filteredDramas.filter(d => d.kdramaGroup && d.kdramaGroup > 0);
         // Sort by kdrama group number
         filteredDramas.sort((a, b) => Number(a.kdramaGroup || 999) - Number(b.kdramaGroup || 999));
@@ -217,3 +219,26 @@ function applyFiltersAndSort() {
     // Clear and redisplay
     displayDramas(filteredDramas);
 }
+// Rating modal functionality
+document.addEventListener('DOMContentLoaded', () => {
+    const trigger = document.getElementById('rating-info-trigger');
+    const modal = document.getElementById('rating-modal');
+    const closeBtn = document.querySelector('.close-modal');
+    
+    if (trigger && modal) {
+        trigger.addEventListener('click', () => {
+            modal.classList.add('show');
+        });
+        
+        closeBtn.addEventListener('click', () => {
+            modal.classList.remove('show');
+        });
+        
+        // Close when clicking outside the modal
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                modal.classList.remove('show');
+            }
+        });
+    }
+});
