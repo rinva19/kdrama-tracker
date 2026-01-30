@@ -40,6 +40,10 @@ function displayDramas(dramas) {
         const actors = drama.actors && drama.actors.length > 0 ? `<strong>Actors:</strong> ${drama.actors.join(', ')}` : '';
         const actresses = drama.actresses && drama.actresses.length > 0 ? `<strong>Actresses:</strong> ${drama.actresses.join(', ')}` : '';
 
+        const plotSummary = drama.plotSummary 
+            ? `<strong>Summary:</strong> ${drama.plotSummary}` 
+            : '<strong>Summary:</strong> No summary available.';
+        
         card.innerHTML = `
             <img src="${posterUrl}" alt="${drama.title}" class="drama-poster">
             ${kdramaGroupBadge}
@@ -53,8 +57,15 @@ function displayDramas(dramas) {
                     ${actresses ? `<div>${actresses}</div>` : ''}
                     <div class="genres">${genres}</div>
                 </div>
+                <div class="expand-indicator">▼ Click for summary</div>
+                <div class="plot-summary">${plotSummary}</div>
             </div>
         `;
+        
+        // Add click handler to toggle summary
+        card.addEventListener('click', () => {
+            card.classList.toggle('expanded');
+        });
         
         container.appendChild(card);
     });

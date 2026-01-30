@@ -46,6 +46,7 @@ for record in drama_records:
         'genres': fields.get('Genre', []),
         'country': fields.get('Country of Origin'),
         'poster': fields.get('Poster URL'),
+        'plotSummary': fields.get('Plot Summary', ''),
         'status': fields.get('Viewing Status', ['Unknown'])[0],
         'channel': fields.get('Channel', []),
         'actors': actor_names,
