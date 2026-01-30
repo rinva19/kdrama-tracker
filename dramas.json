@@ -457,7 +457,7 @@
   {
     "title": "Encounter",
     "rating": 4,
-    "year": "2018-2019",
+    "year": "2018",
     "genres": [
       "Drama",
       "Romance"
@@ -519,7 +519,7 @@
   {
     "title": "Secret Garden",
     "rating": 2,
-    "year": "2010-2011",
+    "year": "2010",
     "genres": [
       "Paranormal",
       "Comedy"
@@ -625,7 +625,7 @@
   {
     "title": "Memories of the Alhambra",
     "rating": 2,
-    "year": "2018-2019",
+    "year": "2018",
     "genres": [
       "Drama",
       "Fantasy"
@@ -682,8 +682,8 @@
       "Romance"
     ],
     "country": "Korea",
-    "poster": "https://image.tmdb.org/t/p/w500/2Ald4WukHy8TeqacR6pbeIs1adO.jpg",
-    "plotSummary": "Sekaiichi Hatsukoi follows three couples that are interconnected within the manga industry, with each being subject to the budding of first love.\n",
+    "poster": "https://asianwiki.com/images/6/6d/The_Greatest_Love-p2.jpg",
+    "plotSummary": "\"The Greatest Love\" depicts a sometimes comical, sometimes sad, sometimes sweet and sometimes maddening love square between a popular actor, a washed up former pop idol, a successful former pop idol, and a doctor of traditional Asian medicine.\n",
     "status": "Watched",
     "channel": [
       "Viki Pass+"
@@ -1169,7 +1169,7 @@
   {
     "title": "My Love From the Star",
     "rating": 5,
-    "year": "2013-2014",
+    "year": "2013",
     "genres": [
       "Fantasy",
       "Romance",
@@ -1356,7 +1356,7 @@
   {
     "title": "Crash Landing on You",
     "rating": 5,
-    "year": "2019-2020",
+    "year": "2019",
     "genres": [
       "Romance",
       "Comedy",
@@ -1403,7 +1403,7 @@
   {
     "title": "The Last Empress",
     "rating": 1,
-    "year": "2018-2019",
+    "year": "2018",
     "genres": [
       "Historical"
     ],
@@ -1670,7 +1670,7 @@
   {
     "title": "Jugglers",
     "rating": 3,
-    "year": "2017 - 2018",
+    "year": "2017",
     "genres": [
       "Comedy",
       "Romance"
@@ -2318,7 +2318,7 @@
   {
     "title": "Hot Stove League",
     "rating": 3,
-    "year": "2019-2020",
+    "year": "2019",
     "genres": [
       "Drama"
     ],
@@ -2349,7 +2349,7 @@
   {
     "title": "The Uncanny Counter",
     "rating": 1,
-    "year": "2020-2021",
+    "year": "2020",
     "genres": [
       "Fantasy"
     ],
@@ -2412,7 +2412,7 @@
   {
     "title": "The Sound of Your Heart",
     "rating": 1,
-    "year": "2016-2017",
+    "year": "2016",
     "genres": [
       "Comedy"
     ],
@@ -2472,7 +2472,7 @@
   {
     "title": "Clean With Passion for Now",
     "rating": 1,
-    "year": "2018-2019",
+    "year": "2018",
     "genres": [
       "Romance"
     ],
@@ -2932,7 +2932,7 @@
   {
     "title": "I'm Not a Robot",
     "rating": 1,
-    "year": "2017-2018",
+    "year": "2017",
     "genres": [
       "Fantasy",
       "Romance"
@@ -2960,19 +2960,29 @@
   },
   {
     "title": "The Law and the City",
-    "rating": null,
-    "year": null,
-    "genres": [],
+    "rating": 3,
+    "year": "2025",
+    "genres": [
+      "Legal"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
     "plotSummary": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.\n",
-    "status": "Unknown",
-    "channel": [],
-    "actors": [
-      "Kang You Seok"
+    "status": "Watched",
+    "channel": [
+      "Viki"
     ],
-    "actresses": [],
-    "dateFinished": null,
+    "actors": [
+      "Lee Jong Sook",
+      "Kang You Seok",
+      "Im Sung Jae"
+    ],
+    "actresses": [
+      "Moon Ga Young",
+      "Ryu Hye Young",
+      "Yum Hye Ran"
+    ],
+    "dateFinished": "2025-08-10",
     "kdramaGroup": null
   },
   {
@@ -3464,7 +3474,7 @@
   {
     "title": "Dr. Romantic",
     "rating": 1,
-    "year": "2016-2017",
+    "year": "2016",
     "genres": [
       "Medical",
       "Romance"
@@ -3501,7 +3511,7 @@
   {
     "title": "Unlock My Boss",
     "rating": 3,
-    "year": "2022-2023",
+    "year": "2022",
     "genres": [
       "Fantasy"
     ],
@@ -3631,7 +3641,7 @@
   {
     "title": "Let Me Be Your Knight",
     "rating": 2,
-    "year": "2021-2022",
+    "year": "2021",
     "genres": [
       "Idol",
       "Romance",
@@ -3743,7 +3753,7 @@
   {
     "title": "Queen: Love and War (Selection: The War Between Women)",
     "rating": 1,
-    "year": "2019-2020",
+    "year": "2019",
     "genres": [
       "Historical",
       "Romance",
@@ -3820,7 +3830,7 @@
   {
     "title": "Prime Minister and I",
     "rating": 3,
-    "year": "2013-2014",
+    "year": "2013",
     "genres": [
       "Romance"
     ],
@@ -4176,7 +4186,7 @@
   {
     "title": "School 2013",
     "rating": 1,
-    "year": "2012-2013",
+    "year": "2012",
     "genres": [
       "Teen Angst",
       "Drama"
@@ -4300,8 +4310,8 @@
       "Romance"
     ],
     "country": "Korea",
-    "poster": "https://image.tmdb.org/t/p/w500/jfedqxwVh2s7GVWQMM7QEnUs0Jb.jpg",
-    "plotSummary": "\u201cLa mexicana y el g\u00fcero\u201d is the story of some scammers who try to deceive a millionaire who is looking for his biological mother through a plan that is funny about what is complicated.  Itat\u00ed Cantoral, Gala Montes, Juan Soler, Luis Roberto Guzm\u00e1n, Montserrat Mara\u00f1\u00f3n, Jacqueline Andere, Rodrigo Abed and Laura Vignatti, among many other stars.\n",
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/dVYhcpZaWJgTuClx5f3wCTH1t5X.jpg",
+    "plotSummary": "A young woman with a miserable life receives a magical book that gives her the power to make every man she encounters fall for her.\n",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -4583,7 +4593,7 @@
   {
     "title": "Rain or Shine (Just Between Lovers)",
     "rating": 4,
-    "year": "2017-2018",
+    "year": "2017",
     "genres": [
       "Romance"
     ],
@@ -4699,15 +4709,15 @@
     "kdramaGroup": null
   },
   {
-    "title": "Call",
+    "title": "The Call",
     "rating": 1,
     "year": "2020",
     "genres": [
       "Mystery/Thriller"
     ],
     "country": "Korea",
-    "poster": "https://image.tmdb.org/t/p/w500/miPjpVMlHz8NwqrBB3pPUXqdLms.jpg",
-    "plotSummary": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics & design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n",
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/oz8hvZHg7tIdGwh0ErPRhobJKPR.jpg",
+    "plotSummary": "Connected by phone in the same home but 20 years apart, a caller puts a woman\u2019s past \u2014 and life \u2014 on the line to change her own fate.\n",
     "status": "No Longer Interested",
     "channel": [
       "Netflix"
@@ -5202,7 +5212,7 @@
   {
     "title": "Pinocchio",
     "rating": 2,
-    "year": "2014-2015",
+    "year": "2014",
     "genres": [
       "Romance"
     ],
@@ -5320,8 +5330,8 @@
     "year": "2021",
     "genres": [],
     "country": "Korea",
-    "poster": "https://image.tmdb.org/t/p/w500/xlPTAodB4QF7wNAguRUOSu2ui2t.jpg",
-    "plotSummary": "The story of the series revolves around two families Geumgane and Hangane from different cultural backgrounds. They meet when their parents remarry in the twilight of life, and they become one family. The series follows the conflict, understanding and harmony of the extended family, showing meaning of a true family.\n",
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/11sqMYQRbfafStAoa2JpXDJWrF6.jpg",
+    "plotSummary": "With hard work and dedication on lock, a group of homeless men trains to compete in a global tournament \u2014 despite a cranky coach.\n",
     "status": "Watched",
     "channel": [],
     "actors": [
@@ -5589,7 +5599,7 @@
   {
     "title": "Remember: War of the Son",
     "rating": 1,
-    "year": "2015-2016",
+    "year": "2015",
     "genres": [
       "Drama",
       "Legal"
@@ -5702,8 +5712,12 @@
     "channel": [
       "Netflix"
     ],
-    "actors": [],
-    "actresses": [],
+    "actors": [
+      "Joo Won"
+    ],
+    "actresses": [
+      "Oh Yeon Seo"
+    ],
     "dateFinished": null,
     "kdramaGroup": null
   },
@@ -5833,8 +5847,12 @@
     "channel": [
       "Netflix"
     ],
-    "actors": [],
-    "actresses": [],
+    "actors": [
+      "Kang Ha Neul"
+    ],
+    "actresses": [
+      "Go Min Si"
+    ],
     "dateFinished": "2025-06-12",
     "kdramaGroup": null
   },
@@ -5887,7 +5905,7 @@
   {
     "title": "Empress Ki",
     "rating": 1,
-    "year": "2013-2014",
+    "year": "2013",
     "genres": [
       "Historical"
     ],
@@ -6200,7 +6218,7 @@
   {
     "title": "Sky Castle",
     "rating": 3,
-    "year": "2018-2019",
+    "year": "2018",
     "genres": [
       "Family Drama",
       "Drama"
@@ -6236,7 +6254,7 @@
   {
     "title": "Star's Lover",
     "rating": 1,
-    "year": "2008-2009",
+    "year": "2008",
     "genres": [],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/ccJ2OVfyeD9HA5IQofxUZ8oABca.jpg",
@@ -6504,7 +6522,11 @@
       "Netflix"
     ],
     "actors": [],
-    "actresses": [],
+    "actresses": [
+      "Kim Go Eun",
+      "Nam Ji Hyun",
+      "Park Ji Hu"
+    ],
     "dateFinished": null,
     "kdramaGroup": null
   },
@@ -6675,7 +6697,7 @@
   {
     "title": "Healer",
     "rating": 5,
-    "year": "2014-2015",
+    "year": "2014",
     "genres": [
       "Action",
       "Romance"
@@ -6762,7 +6784,7 @@
   {
     "title": "My Lovely Sam Soon (My Name is Kim Sam Soon)",
     "rating": 1,
-    "year": "2005-2006",
+    "year": "2005",
     "genres": [
       "Comedy",
       "Romance"
@@ -7065,7 +7087,7 @@
   {
     "title": "Tell Me That you Love Me",
     "rating": 1,
-    "year": "2023-2024",
+    "year": "2023",
     "genres": [
       "Romance"
     ],
@@ -7088,7 +7110,7 @@
   {
     "title": "Weightlifting Fairy Kim Bok Joo",
     "rating": 4,
-    "year": "2016-2017",
+    "year": "2016",
     "genres": [
       "Romance"
     ],
@@ -7229,7 +7251,7 @@
   {
     "title": "Our Beloved Summer",
     "rating": 3,
-    "year": "2021-2022",
+    "year": "2021",
     "genres": [
       "Drama",
       "Romance"
@@ -7923,7 +7945,7 @@
   {
     "title": "My Golden Life",
     "rating": 3,
-    "year": "2017-2018",
+    "year": "2017",
     "genres": [
       "Romance"
     ],
@@ -8261,7 +8283,7 @@
   {
     "title": "My Man is Cupid",
     "rating": 1,
-    "year": "2023-2024",
+    "year": "2023",
     "genres": [
       "Romance",
       "Fantasy"
@@ -8336,7 +8358,7 @@
       "Drama"
     ],
     "country": "Korea",
-    "poster": "https://www.themoviedb.org/movie/570503#",
+    "poster": "https://i.mydramalist.com/vWDVBc.jpg?v=1",
     "plotSummary": "During the 1990s, hardworking Mi-soo and optimistic Hyun-woo meet at a bakery and fall in love while exchanging stories on a radio station, but while their paths keep crossing, the timing never seems to work out.\n",
     "status": "Abandoned",
     "channel": [
@@ -8372,7 +8394,8 @@
       "Lee Yi Kyoung"
     ],
     "actresses": [
-      "Park Min Young"
+      "Park Min Young",
+      "Song Ha Yoon"
     ],
     "dateFinished": "2024-02-22",
     "kdramaGroup": null
@@ -8380,7 +8403,7 @@
   {
     "title": "Run On",
     "rating": 2,
-    "year": "2020-2021",
+    "year": "2020",
     "genres": [
       "Romance"
     ],
@@ -9005,7 +9028,7 @@
   {
     "title": "Guardian: the Lonely and Great God (Goblin)",
     "rating": 5,
-    "year": "2016-2017",
+    "year": "2016",
     "genres": [
       "Historical",
       "Paranormal",
@@ -9470,7 +9493,7 @@
   {
     "title": "Chocolate",
     "rating": 4,
-    "year": "2019-2020",
+    "year": "2019",
     "genres": [
       "Drama",
       "Romance",
@@ -9496,23 +9519,6 @@
       "Yum Hye Ran"
     ],
     "dateFinished": "2020-01-19",
-    "kdramaGroup": null
-  },
-  {
-    "title": "Iron Ladies",
-    "rating": null,
-    "year": "2018",
-    "genres": [
-      "Fantasy"
-    ],
-    "country": "Taiwan",
-    "poster": "https://image.tmdb.org/t/p/w500/iWPk7y7e4rb0yHZLYN9keUbNs9h.jpg",
-    "plotSummary": "To the outside world, everything in their lives is going well for them. But three professional women in their 30s try to find their own personal happiness outside of their successful careers.\n",
-    "status": "To Watch",
-    "channel": [],
-    "actors": [],
-    "actresses": [],
-    "dateFinished": null,
     "kdramaGroup": null
   },
   {
@@ -9546,7 +9552,7 @@
   },
   {
     "title": "The King: The Eternal Monarch",
-    "rating": 1,
+    "rating": 2,
     "year": "2020",
     "genres": [
       "Fantasy"
@@ -9583,7 +9589,7 @@
   {
     "title": "Oh My Venus",
     "rating": 4,
-    "year": "2015-2016",
+    "year": "2015",
     "genres": [
       "Comedy",
       "Romance"
@@ -9684,7 +9690,7 @@
   {
     "title": "Padam Padam",
     "rating": 1,
-    "year": "2011-2012",
+    "year": "2011",
     "genres": [
       "Romance"
     ],
@@ -10092,7 +10098,7 @@
   {
     "title": "The Legend of the Blue Sea",
     "rating": 5,
-    "year": "2016-2017",
+    "year": "2016",
     "genres": [
       "Comedy",
       "Fantasy",
@@ -10154,8 +10160,12 @@
     "channel": [
       "Viki"
     ],
-    "actors": [],
-    "actresses": [],
+    "actors": [
+      "Choi Si Won"
+    ],
+    "actresses": [
+      "Lee Da Hee"
+    ],
     "dateFinished": null,
     "kdramaGroup": null
   },
@@ -10216,7 +10226,7 @@
   {
     "title": "Reply 1988",
     "rating": 5,
-    "year": "2015-2016",
+    "year": "2015",
     "genres": [
       "Drama"
     ],
@@ -10307,8 +10317,8 @@
       "Action"
     ],
     "country": "Korea",
-    "poster": "https://image.tmdb.org/t/p/w500/rRnNTiwwQG6rtjh2QUPEuINY1HR.jpg",
-    "plotSummary": "Exit is based on the true stories of four men in their mid-30s, who all became multi-millionaires before the age of thirty. Attempting to escape from their obligations, expectations and families, they employ drugs, prostitutes, and their very own set of morals.\n",
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/zf16eomhCB13cwMb4iFEbBT0Tsr.jpg",
+    "plotSummary": "At his mother's 70th birthday party, Yong-nam runs into Eui-joo, who rejected him in college. When the city is engulfed in toxic gas from a terrorist attack, the two must find a way to escape using all the techniques they learned in their college rock climbing club.\n",
     "status": "To Watch",
     "channel": [
       "Amazon"
@@ -10390,7 +10400,7 @@
   {
     "title": "Fruits Basket",
     "rating": 1,
-    "year": "2019-2021",
+    "year": "2019",
     "genres": [
       "Drama"
     ],
@@ -10825,7 +10835,7 @@
   {
     "title": "Beautiful Love, Wonderful Life",
     "rating": 1,
-    "year": "2019 - 2020",
+    "year": "2019",
     "genres": [
       "Family Drama"
     ],
@@ -11295,7 +11305,7 @@
   {
     "title": "Devilish Joy",
     "rating": 1,
-    "year": null,
+    "year": "2018",
     "genres": [],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/v77XkTIW2UfyClmQX6H2zHgOhxs.jpg",
@@ -11304,15 +11314,19 @@
     "channel": [
       "Viki"
     ],
-    "actors": [],
-    "actresses": [],
+    "actors": [
+      "Choi Jin Hyuk"
+    ],
+    "actresses": [
+      "Song Ha Yoon"
+    ],
     "dateFinished": null,
     "kdramaGroup": null
   },
   {
     "title": "Prison Playbook",
     "rating": null,
-    "year": "2017-2018",
+    "year": "2017",
     "genres": [
       "Drama"
     ],
