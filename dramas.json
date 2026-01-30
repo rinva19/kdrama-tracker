@@ -191,12 +191,12 @@
   {
     "title": "My Sassy Girl",
     "rating": 2,
-    "year": "2001",
+    "year": "2013",
     "genres": [
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/grFSgOnSt8saknfRUY05wLGVJ7T.jpg",
     "status": "Watched",
     "channel": [],
     "actors": [
@@ -677,7 +677,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "Tale of the Nine Tailed (Tale of Gumiho)",
+    "title": "Tale of the Nine Tailed",
     "rating": 1,
     "year": "2020",
     "genres": [
@@ -685,7 +685,7 @@
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/jXx9vLO9bwKxl81oVQnzEH7960V.jpg",
     "status": "Abandoned",
     "channel": [
       "Viki"
@@ -729,12 +729,12 @@
   {
     "title": "Love Scout",
     "rating": 4,
-    "year": "2024-2025",
+    "year": "2025",
     "genres": [
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/1c4n4C8MV6DVJlhGDlQy37mClLd.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -1060,7 +1060,7 @@
       "Romance"
     ],
     "country": "China",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/pFxNLiBon5N0kfFTyGCsf3GuaU0.jpg",
     "status": "Watched",
     "channel": [
       "Amazon"
@@ -1435,24 +1435,6 @@
     "kdramaGroup": null
   },
   {
-    "title": "Bargaining (The Point Men)",
-    "rating": null,
-    "year": "2020",
-    "genres": [
-      "Mystery/Thriller"
-    ],
-    "country": "Korea",
-    "poster": null,
-    "status": "To Watch",
-    "channel": [],
-    "actors": [
-      "Hyun Bin"
-    ],
-    "actresses": [],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
     "title": "Wednesday 3:30 pm",
     "rating": 1,
     "year": "2017",
@@ -1662,7 +1644,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "So I Married My Anti-fan",
+    "title": "I Married an Anti-fan",
     "rating": 2,
     "year": "2016",
     "genres": [
@@ -1670,14 +1652,16 @@
       "Comedy"
     ],
     "country": "China",
-    "poster": null,
+    "poster": "https://i.mydramalist.com/Azj4qs.jpg?v=1",
     "status": "Watched",
     "channel": [
       "Viki"
     ],
-    "actors": [],
+    "actors": [
+      "Chanyeol"
+    ],
     "actresses": [
-      "Jeon So Min"
+      "Yuan Shanshan"
     ],
     "dateFinished": "2021-05-08",
     "kdramaGroup": null
@@ -1876,12 +1860,12 @@
     "kdramaGroup": null
   },
   {
-    "title": "Cheongseong Creature",
+    "title": "Gyeongseong Creature",
     "rating": 1,
     "year": "2023",
     "genres": [],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/5wliFAD8Pjjj0YYSmupqjOldnWt.jpg",
     "status": "Abandoned",
     "channel": [
       "Netflix"
@@ -1894,7 +1878,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "My Familiar Wife",
+    "title": "Familiar Wife",
     "rating": 4,
     "year": "2018",
     "genres": [
@@ -1902,7 +1886,7 @@
       "Fantasy"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/ds84fVavAJX872qh4kUHAfqjp3b.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -2064,7 +2048,7 @@
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/od22ftNnyag0TTxcnJhlsu3aLoU.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -2506,12 +2490,12 @@
   {
     "title": "Juror 8",
     "rating": 4,
-    "year": "2018",
+    "year": "2019",
     "genres": [
       "Legal"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/hNbbdoGVNzwOu22VW2sfiyxDtcK.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -2601,14 +2585,14 @@
   {
     "title": "The Forbidden Marriage",
     "rating": 3,
-    "year": "2023",
+    "year": "2022",
     "genres": [
       "Historical",
       "Romance",
       "Fantasy"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/xzlMB1nGJtMhr2GnecpHIh7XUZe.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -2700,26 +2684,6 @@
       "NaNa (Im Jin Ah)",
       "Woo Hee Jin",
       "Bae Hae Sun"
-    ],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
-    "title": "The Interest of Love",
-    "rating": 1,
-    "year": "2023",
-    "genres": [],
-    "country": "Korea",
-    "poster": null,
-    "status": "No Longer Interested",
-    "channel": [
-      "Netflix"
-    ],
-    "actors": [
-      "Yoo Yeon Seok"
-    ],
-    "actresses": [
-      "Moon Ga Young"
     ],
     "dateFinished": null,
     "kdramaGroup": null
@@ -2887,31 +2851,6 @@
     "kdramaGroup": null
   },
   {
-    "title": "Sisyphus: The Myth",
-    "rating": 1,
-    "year": "2020",
-    "genres": [
-      "Drama"
-    ],
-    "country": "Korea",
-    "poster": null,
-    "status": "No Longer Interested",
-    "channel": [
-      "Netflix"
-    ],
-    "actors": [
-      "Cho Seung Woo",
-      "Sung Dong Il",
-      "Chae Jong Hyeop"
-    ],
-    "actresses": [
-      "Park Shin Hye",
-      "Sung Byoung Sook"
-    ],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
     "title": "The Law and the City",
     "rating": null,
     "year": null,
@@ -3065,14 +3004,14 @@
     "kdramaGroup": null
   },
   {
-    "title": "Agent Black Belt",
+    "title": "Officer Black Belt",
     "rating": 2,
     "year": "2024",
     "genres": [
       "Action"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/rEaJSXAlNfdhRpDHiNcJsoUa9qE.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -3396,34 +3335,6 @@
     "kdramaGroup": null
   },
   {
-    "title": "Lets Eat 2",
-    "rating": 1,
-    "year": "2015",
-    "genres": [
-      "Food"
-    ],
-    "country": "Korea",
-    "poster": null,
-    "status": "Abandoned",
-    "channel": [
-      "Netflix"
-    ],
-    "actors": [
-      "Yoon Doo Joon",
-      "Jo Jae Yun",
-      "Kwon Yool"
-    ],
-    "actresses": [
-      "Seo Hyun Jin",
-      "Lee Do Yeon",
-      "Kim Ji Young",
-      "Hwang Seung Un",
-      "Jo Eun Ji"
-    ],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
     "title": "Dr. Romantic",
     "rating": 1,
     "year": "2016-2017",
@@ -3556,14 +3467,14 @@
     "kdramaGroup": null
   },
   {
-    "title": "My Contracted Husband, Mr. Oh!",
+    "title": "My Husband, Mr. Oh!",
     "rating": 3,
     "year": "2018",
     "genres": [
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/7F8D7ls0HBzIaGSbmO4WbPhWdtx.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -3716,38 +3627,6 @@
       "Jin Se Yeon",
       "Jung Ae Ri",
       "Choi Myung Bin"
-    ],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
-    "title": "18 Again (Somehow 18)",
-    "rating": null,
-    "year": "2020",
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "country": "Korea",
-    "poster": null,
-    "status": "To Watch",
-    "channel": [],
-    "actors": [
-      "Yoon Sang Hyun",
-      "Lee Do Hyun",
-      "Hwang In Yeop",
-      "Jang Hyuk Jin",
-      "Ahn Nae Sang",
-      "Lee Ki Woo",
-      "Kim Gang Hyun",
-      "Wi Ha Joon"
-    ],
-    "actresses": [
-      "Kim Mi Kyung",
-      "Kim Ha Neul",
-      "Lee Do Yeon",
-      "Kim Bo Mi",
-      "Roh Jeong Eui"
     ],
     "dateFinished": null,
     "kdramaGroup": null
@@ -4282,10 +4161,10 @@
   {
     "title": "Check in Hanyang",
     "rating": 1,
-    "year": "2025",
+    "year": "2024",
     "genres": [],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/dQTVvwnmTj8XTbajEQbcDsKTGgi.jpg",
     "status": "Abandoned",
     "channel": [
       "Viki"
@@ -4438,7 +4317,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "Poong, The Joseon Psychiatrist 2",
+    "title": "Poong The Joseon Psychiatrist 2",
     "rating": 2,
     "year": "2023",
     "genres": [
@@ -4448,7 +4327,7 @@
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/4pyrc2PpzvBGYh2ZDqFmn5OASds.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -4520,7 +4399,7 @@
       "Paranormal"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/5kiUh29bcQe66Mjs98O31vGwlUr.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -4598,7 +4477,7 @@
       "Mystery/Thriller"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/wzxsCW4chkwXzfJPLXImpEpjtV.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -4693,7 +4572,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "Poong, the Joeson Psychiatrist ",
+    "title": "Poong the Joseon Psychiatrist ",
     "rating": 3,
     "year": "2022",
     "genres": [
@@ -4702,7 +4581,7 @@
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/4pyrc2PpzvBGYh2ZDqFmn5OASds.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -4809,35 +4688,14 @@
     "kdramaGroup": null
   },
   {
-    "title": "Peninsula",
-    "rating": 1,
-    "year": "2020",
-    "genres": [
-      "Paranormal"
-    ],
-    "country": "Korea",
-    "poster": null,
-    "status": "No Longer Interested",
-    "channel": [],
-    "actors": [
-      "Moon Woo Jin",
-      "Gang Dong Won"
-    ],
-    "actresses": [
-      "Lee Jung Hyun"
-    ],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
-    "title": "Last Princess",
+    "title": "The Last Princess",
     "rating": 3,
     "year": "2016",
     "genres": [
       "Historical"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/sLPHjuCySL3re0qtdz3XJQdx61I.jpg",
     "status": "Watched",
     "channel": [
       "Amazon"
@@ -5379,15 +5237,15 @@
     "kdramaGroup": null
   },
   {
-    "title": "Tale of Arang (Arang and the Magistrage)",
+    "title": "Tale of Arang",
     "rating": 1,
-    "year": null,
+    "year": "2012",
     "genres": [
       "Historical",
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/yCe8tPm3PqY0HRq9UJeaMWTmn7m.jpg",
     "status": "Abandoned",
     "channel": [],
     "actors": [
@@ -5628,12 +5486,12 @@
     "kdramaGroup": null
   },
   {
-    "title": "My Sassy Girl Joseon",
+    "title": "My Sassy Girl",
     "rating": 1,
     "year": "2017",
     "genres": [],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/llSHPKnZWaFvvTKqslvUVeyrK4O.jpg",
     "status": "Abandoned",
     "channel": [
       "Netflix"
@@ -5934,34 +5792,6 @@
     "kdramaGroup": null
   },
   {
-    "title": "Will You Have Dinner With Me? (Dinner Mate)",
-    "rating": null,
-    "year": "2020",
-    "genres": [
-      "Food"
-    ],
-    "country": "Korea",
-    "poster": null,
-    "status": "To Watch",
-    "channel": [],
-    "actors": [
-      "Song Seung Heon",
-      "Go Kyu Pil",
-      "Kim Jung Hyun",
-      "Kim Won Hae",
-      "Park Ho San",
-      "Lee Ji Hoon",
-      "Jung Sang Hoon"
-    ],
-    "actresses": [
-      "Seo Ji Hye",
-      "Ye Ji Won",
-      "Seo Eun Su"
-    ],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
     "title": "Lucky Romance",
     "rating": 3,
     "year": "2016",
@@ -6096,7 +5926,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "The Sea of Silence (The Sea of Tranquility)",
+    "title": "The Silent Sea",
     "rating": 2,
     "year": "2021",
     "genres": [
@@ -6104,7 +5934,7 @@
       "Horror"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/fFT0IgqtCOks4munDTxQwkvNJkd.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -6333,7 +6163,7 @@
       "Paranormal"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -6379,7 +6209,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "Dr. Cha",
+    "title": "Doctor Cha",
     "rating": 3,
     "year": "2023",
     "genres": [
@@ -6387,7 +6217,7 @@
       "Medical"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/qgQQeiy2zyfla5y2yiZJGGU4y1I.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -6488,12 +6318,12 @@
   {
     "title": "Very Ordinary Couple",
     "rating": 1,
-    "year": "2012",
+    "year": "2013",
     "genres": [
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/lLdDMgoxq7xuDzkJ2wgjjJUdtXF.jpg",
     "status": "Watched",
     "channel": [],
     "actors": [
@@ -6554,7 +6384,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "Forecasting Love and Weather (Office Romance Cruel Story)",
+    "title": "Forecasting Love and Weather",
     "rating": 2,
     "year": "2022",
     "genres": [
@@ -6562,7 +6392,7 @@
       "Comedy"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/3Qfh99m0jShWrqlFRsnWY7HeHNX.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -6903,7 +6733,7 @@
       "Food"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -7438,26 +7268,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "A Werewolf Boy",
-    "rating": 1,
-    "year": "2012",
-    "genres": [],
-    "country": "Korea",
-    "poster": null,
-    "status": "No Longer Interested",
-    "channel": [],
-    "actors": [
-      "Song Joong Ki"
-    ],
-    "actresses": [
-      "Park Bo Young",
-      "Kim Hyang Gi"
-    ],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
-    "title": "Doom at Your Service (One Day Destruction Came to My Door)",
+    "title": "Doom at Your Service",
     "rating": 3,
     "year": "2021",
     "genres": [
@@ -7465,7 +7276,7 @@
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/tgsWD4dJI5YFY8Kyk6vVjZoIKfO.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -7694,7 +7505,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "Queen Cheorin (No Touch Princess) (Mr. Queen)",
+    "title": "Mr. Queen",
     "rating": 3,
     "year": "2020",
     "genres": [
@@ -7702,7 +7513,7 @@
       "Historical"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/aekZ1Mk3ROB19DDFNoSt5dcXoUQ.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -8215,14 +8026,14 @@
     "kdramaGroup": null
   },
   {
-    "title": "Tune in for love",
+    "title": "Tune in for Love",
     "rating": 1,
     "year": "2019",
     "genres": [
       "Drama"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://www.themoviedb.org/movie/570503#",
     "status": "Abandoned",
     "channel": [
       "Netflix"
@@ -8348,16 +8159,23 @@
   {
     "title": "New Year Blues",
     "rating": 3,
-    "year": "2020",
+    "year": "2021",
     "genres": [],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/xUxaut94lkX9dxUhyCDC4BoScf7.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
     ],
-    "actors": [],
-    "actresses": [],
+    "actors": [
+      "Kim Kang Woo",
+      "Yoo Yeon Seok",
+      "Lee Dong Hwi"
+    ],
+    "actresses": [
+      "Yoo In Na",
+      "Lee Yeon Hee"
+    ],
     "dateFinished": "2022-12-12",
     "kdramaGroup": null
   },
@@ -8814,7 +8632,7 @@
       "Historical"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/zrWD1J3CRamqGgHm5UgH9jN0Iqi.jpg",
     "status": "Watched",
     "channel": [
       "Amazon"
@@ -8837,7 +8655,7 @@
       "Comedy"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/3H97tUK5UmgOpjCh6Q7XZ4HW1cG.jpg",
     "status": "Watched",
     "channel": [
       "Amazon"
@@ -8897,7 +8715,7 @@
     "kdramaGroup": null
   },
   {
-    "title": "Bossom: Steal the Fate",
+    "title": "Bossam: Steal the Fate",
     "rating": 2,
     "year": "2021",
     "genres": [
@@ -8905,7 +8723,7 @@
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/y6tKynnesWeZqjGQSJzkKz16F6E.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -9187,31 +9005,6 @@
     "kdramaGroup": null
   },
   {
-    "title": "Secretly, Greatly",
-    "rating": null,
-    "year": "2013",
-    "genres": [
-      "Comedy"
-    ],
-    "country": "Korea",
-    "poster": null,
-    "status": "To Watch",
-    "channel": [],
-    "actors": [
-      "Kim Soo Hyun",
-      "Lee Hyun Woo",
-      "Choi Woo Shik",
-      "Jang Gwang",
-      "Ko Im Boem"
-    ],
-    "actresses": [
-      "Park Eun Bin",
-      "Park Hye Sook"
-    ],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
     "title": "A Time Called You",
     "rating": 1,
     "year": "2023",
@@ -9238,7 +9031,7 @@
       "Action"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/bkuuvDoPkOJpg0ZDzHkUWt8ZG5A.jpg",
     "status": "Abandoned",
     "channel": [
       "Netflix"
@@ -9377,14 +9170,14 @@
     "kdramaGroup": null
   },
   {
-    "title": "Man x Man",
+    "title": "Man to Man",
     "rating": 3,
     "year": "2017",
     "genres": [
       "Action"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/iH7TlkTfhPesQdDsPSTqdagm15y.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -9691,14 +9484,14 @@
     "kdramaGroup": null
   },
   {
-    "title": "Race to Freedom - Um Bok Dong",
+    "title": "Race to Freedom: Um Bok-dong",
     "rating": 3,
     "year": "2019",
     "genres": [
       "Action"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/47GtpFMRQc2phuFTyvQKwPEGNlZ.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
@@ -10643,7 +10436,7 @@
       "Family Drama"
     ],
     "country": "Korea",
-    "poster": "https://image.tmdb.org/t/p/w500/78c5IwxAQhq2eStpBurheFhYhHV.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/aXlXQDiXxWcvACcWXCBI5rVARbO.jpg",
     "status": "No Longer Interested",
     "channel": [
       "Viki"
@@ -10870,15 +10663,15 @@
     "kdramaGroup": null
   },
   {
-    "title": "High End Crush",
+    "title": "High-End Crush",
     "rating": 2,
-    "year": "2018",
+    "year": "2015",
     "genres": [
       "Comedy",
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/izcSfNInntMVwBSZX9oRs0EPwz.jpg",
     "status": "Watched",
     "channel": [
       "Viki"
@@ -11085,28 +10878,6 @@
       "Jang Young Nam",
       "Park Hye Jin"
     ],
-    "dateFinished": null,
-    "kdramaGroup": null
-  },
-  {
-    "title": "Seo Bok",
-    "rating": null,
-    "year": "2020",
-    "genres": [
-      "Fantasy",
-      "Drama"
-    ],
-    "country": "Korea",
-    "poster": null,
-    "status": "To Watch",
-    "channel": [
-      "Viki"
-    ],
-    "actors": [
-      "Park Bo Gum",
-      "Gong Yoo"
-    ],
-    "actresses": [],
     "dateFinished": null,
     "kdramaGroup": null
   },
@@ -11371,14 +11142,14 @@
     "kdramaGroup": null
   },
   {
-    "title": "Bring It On, Ghost (Hey Ghost, Let's Fight)",
+    "title": "Bring It On, Ghost",
     "rating": 4,
     "year": "2016",
     "genres": [
       "Romance"
     ],
     "country": "Korea",
-    "poster": null,
+    "poster": "https://image.tmdb.org/t/p/w500/zb92aCrjRAFxsgn9VUXXhiso6h8.jpg",
     "status": "Watched",
     "channel": [
       "Netflix"
