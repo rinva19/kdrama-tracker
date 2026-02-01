@@ -327,7 +327,7 @@ function showActorModal(actorName) {
 
     statsEl.innerHTML = `
         <p><strong>Dramas:</strong> ${dramaCount}</p>
-        <p><strong>Average Rating:</strong> ${avgRating !== 'N/A' ? `⭐ ${avgRating}/5` : 'Not rated'}</p>
+        <p><strong>Average Drama Rating:</strong> ${avgRating !== 'N/A' ? `⭐ ${avgRating}/5` : 'Not rated'}</p>
     `;
 
     // Sort dramas by rating (highest first), then by title
