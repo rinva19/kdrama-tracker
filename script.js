@@ -37,8 +37,12 @@ function displayDramas(dramas) {
             ? drama.genres.map(g => `<span class="genre-tag">${g}</span>`).join('') 
             : '';
         
-        const actors = drama.actors && drama.actors.length > 0 ? `<strong>Actors:</strong> ${drama.actors.join(', ')}` : '';
-        const actresses = drama.actresses && drama.actresses.length > 0 ? `<strong>Actresses:</strong> ${drama.actresses.join(', ')}` : '';
+        const actors = drama.actors && drama.actors.length > 0
+            ? `<strong>Actors:</strong> ${drama.actors.map(a => `<span class="actor-name" data-actor="${a}">${a}</span>`).join(', ')}`
+            : '';
+        const actresses = drama.actresses && drama.actresses.length > 0
+            ? `<strong>Actresses:</strong> ${drama.actresses.map(a => `<span class="actor-name" data-actor="${a}">${a}</span>`).join(', ')}`
+            : '';
 
         const plotSummary = drama.plotSummary 
             ? `<strong>Summary:</strong> ${drama.plotSummary}` 
@@ -63,10 +67,22 @@ function displayDramas(dramas) {
         `;
         
         // Add click handler to toggle summary
-        card.addEventListener('click', () => {
-            card.classList.toggle('expanded');
+        card.addEventListener('click', (e) => {
+            // Don't toggle if clicking on actor name
+            if (!e.target.classList.contains('actor-name')) {
+                card.classList.toggle('expanded');
+            }
         });
-        
+
+        // Add click handlers to actor names
+        card.querySelectorAll('.actor-name').forEach(actorSpan => {
+            actorSpan.addEventListener('click', (e) => {
+                e.stopPropagation(); // Prevent card expansion
+                const actorName = actorSpan.dataset.actor;
+                showActorModal(actorName);
+            });
+        });
+
         container.appendChild(card);
     });
 }
@@ -224,16 +240,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const trigger = document.getElementById('rating-info-trigger');
     const modal = document.getElementById('rating-modal');
     const closeBtn = document.querySelector('.close-modal');
-    
+
     if (trigger && modal) {
         trigger.addEventListener('click', () => {
             modal.classList.add('show');
         });
-        
+
         closeBtn.addEventListener('click', () => {
             modal.classList.remove('show');
         });
-        
+
         // Close when clicking outside the modal
         modal.addEventListener('click', (e) => {
             if (e.target === modal) {
@@ -241,4 +257,99 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
+
+    // Actor modal functionality
+    const actorModal = document.getElementById('actor-modal');
+    const closeActorBtn = document.querySelector('.close-actor-modal');
+
+    if (actorModal && closeActorBtn) {
+        closeActorBtn.addEventListener('click', () => {
+            actorModal.classList.remove('show');
+        });
+
+        // Close when clicking outside the modal
+        actorModal.addEventListener('click', (e) => {
+            if (e.target === actorModal) {
+                actorModal.classList.remove('show');
+            }
+        });
+    }
 });
+
+// Function to show actor modal with dramas and stats
+function showActorModal(actorName) {
+    const modal = document.getElementById('actor-modal');
+    const titleEl = document.getElementById('actor-modal-title');
+    const statsEl = document.getElementById('actor-modal-stats');
+    const dramasEl = document.getElementById('actor-modal-dramas');
+
+    // Find all dramas featuring this actor
+    const actorDramas = allDramas.filter(drama => {
+        return (drama.actors && drama.actors.includes(actorName)) ||
+               (drama.actresses && drama.actresses.includes(actorName));
+    });
+
+    // Find actor's profile image from first drama
+    let profileImage = null;
+    for (const drama of actorDramas) {
+        if (drama.actors && drama.actors.includes(actorName)) {
+            const actorIndex = drama.actors.indexOf(actorName);
+            if (drama.actorImages && drama.actorImages[actorIndex]) {
+                profileImage = drama.actorImages[actorIndex];
+                break;
+            }
+        }
+        if (drama.actresses && drama.actresses.includes(actorName)) {
+            const actressIndex = drama.actresses.indexOf(actorName);
+            if (drama.actressImages && drama.actressImages[actressIndex]) {
+                profileImage = drama.actressImages[actressIndex];
+                break;
+            }
+        }
+    }
+
+    // Calculate statistics
+    const dramaCount = actorDramas.length;
+    const ratedDramas = actorDramas.filter(d => d.rating && d.rating > 0);
+    const avgRating = ratedDramas.length > 0
+        ? (ratedDramas.reduce((sum, d) => sum + d.rating, 0) / ratedDramas.length).toFixed(1)
+        : 'N/A';
+
+    // Update modal content with profile image
+    if (profileImage) {
+        titleEl.innerHTML = `
+            <img src="${profileImage}" alt="${actorName}" class="actor-profile-image">
+            <span>${actorName}</span>
+        `;
+    } else {
+        titleEl.textContent = actorName;
+    }
+
+    statsEl.innerHTML = `
+        <p><strong>Dramas:</strong> ${dramaCount}</p>
+        <p><strong>Average Rating:</strong> ${avgRating !== 'N/A' ? `⭐ ${avgRating}/5` : 'Not rated'}</p>
+    `;
+
+    // Sort dramas by rating (highest first), then by title
+    const sortedDramas = [...actorDramas].sort((a, b) => {
+        if (b.rating !== a.rating) {
+            return (b.rating || 0) - (a.rating || 0);
+        }
+        return (a.title || '').localeCompare(b.title || '');
+    });
+
+    // Create drama list
+    dramasEl.innerHTML = sortedDramas.map(drama => {
+        const rating = drama.rating ? `⭐ ${drama.rating}/5` : 'Not rated';
+        const year = drama.year ? ` (${drama.year})` : '';
+        return `
+            <div class="actor-drama-item">
+                <div class="actor-drama-title">${drama.title}${year}</div>
+                <div class="actor-drama-rating">${rating}</div>
+            </div>
+        `;
+    }).join('');
+
+    // Show the modal
+    modal.classList.add('show');
+}
