@@ -58,6 +58,26 @@ Then run `update-dramas` to push changes.
 
 ---
 
+## Preview Before Publishing
+
+Want to see your changes locally before pushing to GitHub?
+
+### Start Local Server
+```bash
+python -m http.server 8000
+```
+
+### View in Browser
+Open: `http://localhost:8000`
+
+This runs a local web server that serves your site exactly like GitHub Pages would. Make changes to your files, refresh the browser, and see them instantly.
+
+**Stop the server:** Press `Ctrl + C`
+
+**Tip:** Make sure you're in your kdrama-tracker directory when you run the command.
+
+---
+
 ## Features
 
 ### Display & Navigation
