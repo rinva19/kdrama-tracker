@@ -77,7 +77,7 @@
     ],
     "actorImages": [
       "https://image.tmdb.org/t/p/w185/DJYwG0eWdCoxvqWhLsnJNKQlMR.jpg",
-      null,
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/488XqSA5N6bEb55yzKFmABERS92.jpg"
     ],
@@ -370,7 +370,7 @@
       null,
       "https://image.tmdb.org/t/p/w185/qXsdm6uDD3Je6JW9VfgCdg4FqYq.jpg",
       "https://image.tmdb.org/t/p/w185/tHPJUgGiQRWt1Bh7ymqmmJ2zKF6.jpg",
-      null,
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg",
       "https://image.tmdb.org/t/p/w185/8FHH9kQLRdByDOjdMn1oRUCEWZA.jpg"
     ],
     "actressImages": [
@@ -1090,7 +1090,7 @@
     ],
     "actorImages": [
       null,
-      null,
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/a5zfhhfSpc32BLAGMXloVm6vglL.jpg",
       "https://image.tmdb.org/t/p/w185/zJxfpQqO6Vk6Yargxfj3NJtTjVF.jpg",
@@ -2242,7 +2242,7 @@
     ],
     "actors": [
       "Yoon Doo Joon",
-      "Ahn Hyo Sup",
+      "Ahn Hyo Seop",
       "Kim Kap Soo"
     ],
     "actresses": [
@@ -3091,7 +3091,7 @@
     "actors": [
       "Ryu Soo Young",
       "Min Jin Woong",
-      "Ahn Hyo Sup",
+      "Ahn Hyo Seop",
       "Lee Byung Joon",
       "Lee Joon",
       "Lee Joon Hyuk",
@@ -4054,7 +4054,7 @@
       null,
       null,
       null,
-      null
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg"
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/t8inEDMgceg8EFLvgglvXzemklf.jpg",
@@ -5193,7 +5193,7 @@
     ],
     "actorImages": [
       null,
-      null
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg"
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/tKeeLzPt47OkccfvbUxNwhNYbTW.jpg",
@@ -5431,7 +5431,7 @@
       "Netflix"
     ],
     "actors": [
-      "Ahn Hyo Sup",
+      "Ahn Hyo Seop",
       "Kim Min Kyu",
       "Lee Deok Hwa",
       "Kim Kwang Kyu"
@@ -7568,7 +7568,7 @@
       "Park Hye Sook"
     ],
     "actorImages": [
-      null,
+      "https://media.themoviedb.org/t/p/w600_and_h900_face/dRFl6hb3LVTNtGFCvizaKoNhjKe.jpg",
       "https://media.themoviedb.org/t/p/w600_and_h900_face/wGNCbshSo0YBcrsUCxfWMR9DLNr.jpg",
       "https://image.tmdb.org/t/p/w185/re9l43Jfh3G93LurFixQTTZe7Va.jpg",
       "https://image.tmdb.org/t/p/w185/jn9OPZY9iDbsogZeORMPQUufTnM.jpg",
@@ -8385,7 +8385,7 @@
     ],
     "actors": [
       "Yang Se Jong",
-      "Ahn Hyo Sup",
+      "Ahn Hyo Seop",
       "Lee Do Hyun",
       "Jo Hyun Sik",
       "Kim Kwang Kyu",
@@ -8477,7 +8477,7 @@
       "https://image.tmdb.org/t/p/w185/qTav3sq6Z1ElWCotUhkfFc1LjHE.jpg",
       null,
       null,
-      null,
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg",
       "https://image.tmdb.org/t/p/w185/75DMeejInwVubvE0l4vEFBwrjW5.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/zJxfpQqO6Vk6Yargxfj3NJtTjVF.jpg",
@@ -10484,7 +10484,7 @@
     "actorImages": [
       null,
       "https://image.tmdb.org/t/p/w185/JA6rIzSFFAnxh5A5r82tITANOh.jpg",
-      null,
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/a5zfhhfSpc32BLAGMXloVm6vglL.jpg",
       null
@@ -11375,7 +11375,7 @@
       "Netflix"
     ],
     "actors": [
-      "Ahn Hyo Sup"
+      "Ahn Hyo Seop"
     ],
     "actresses": [],
     "actorImages": [
@@ -11445,7 +11445,7 @@
   },
   {
     "title": "Our Unwritten Seoul",
-    "rating": null,
+    "rating": 3,
     "year": "2025",
     "genres": [
       "Drama"
@@ -11453,7 +11453,7 @@
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/bxR3pwTqIHez7Ze7tfpVppov3rv.jpg",
     "plotSummary": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles \u2014 embarking on a journey to rediscover love and life.\n",
-    "status": "In Progress",
+    "status": "Watched",
     "channel": [
       "Netflix"
     ],
@@ -11469,7 +11469,7 @@
     "actressImages": [
       null
     ],
-    "dateFinished": null,
+    "dateFinished": "2026-02-05",
     "kdramaGroup": null
   },
   {
@@ -12713,7 +12713,7 @@
     "actorImages": [
       null,
       "https://image.tmdb.org/t/p/w185/buZqD31REGoeg8wTRRyPVGidsfl.jpg",
-      null,
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg",
       "https://image.tmdb.org/t/p/w185/964Av6jVlFT7TGEpzHvmAgrrdE2.jpg",
       "https://image.tmdb.org/t/p/w185/vcnehXdPtRoLzkOJLRYnuIusCdg.jpg",
       "https://image.tmdb.org/t/p/w185/5X3oJA1NaesYHeX3LfuC7t3j7VV.jpg",
@@ -13064,7 +13064,7 @@
       null,
       "https://image.tmdb.org/t/p/w185/gG3aMwf9OX6eqEtMUODlKU5MqtR.jpg",
       null,
-      null,
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg",
       null
     ],
     "actressImages": [
@@ -13469,7 +13469,7 @@
       "Netflix"
     ],
     "actors": [
-      "Ahn Hyo Sup",
+      "Ahn Hyo Seop",
       "Seo In Guk",
       "Lee Dae Yeon"
     ],
@@ -13676,7 +13676,7 @@
       null,
       null,
       null,
-      null,
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg",
       "https://image.tmdb.org/t/p/w185/urz7CEh9rpC9GFqh5ht8R65dY9w.jpg",
       "https://image.tmdb.org/t/p/w185/ayjkSbxGkeiyE2JvbLlyNPNFxkn.jpg",
       "https://image.tmdb.org/t/p/w185/lITY3WsJOFjlHkP1bJ3PwYhuNnD.jpg",
@@ -14816,7 +14816,7 @@
       "https://image.tmdb.org/t/p/w185/laQKRQYrVUL3hvvv3uvXlB2Pz66.jpg",
       null,
       null,
-      null,
+      "https://media.themoviedb.org/t/p/w180_and_h180_face/ah6E27lc3UJrLPLArSEsgY4GXCu.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/rDKP8P0Zpj6c1eiEWirZvmQT0Ni.jpg",
       "https://image.tmdb.org/t/p/w185/kWFKd8BCAZ0jZqRwBBZTCKNrySl.jpg"
