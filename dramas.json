@@ -12930,10 +12930,18 @@
     "channel": [
       "Netflix"
     ],
-    "actors": [],
-    "actresses": [],
-    "actorImages": [],
-    "actressImages": [],
+    "actors": [
+      "Ahn Hyo Seop"
+    ],
+    "actresses": [
+      "Jeon Yeo Bin"
+    ],
+    "actorImages": [
+      null
+    ],
+    "actressImages": [
+      "https://image.tmdb.org/t/p/w185/l28uxiGDMyZjQMRvhfNCtkydmpK.jpg"
+    ],
     "dateFinished": null,
     "kdramaGroup": null
   },
