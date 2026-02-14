@@ -7644,6 +7644,36 @@
     "kdramaGroup": null
   },
   {
+    "title": "Positively Yours",
+    "rating": null,
+    "year": "2026",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "country": "Korea",
+    "poster": "https://media.themoviedb.org/t/p/w188_and_h282_face/6lnM7PecwSEyYjrWr2nQzmmZaDU.jpg",
+    "plotSummary": "",
+    "status": "In Progress",
+    "channel": [
+      "Viki"
+    ],
+    "actors": [
+      "Choi Jin Hyuk"
+    ],
+    "actresses": [
+      "Oh Yeon Seo"
+    ],
+    "actorImages": [
+      null
+    ],
+    "actressImages": [
+      "https://image.tmdb.org/t/p/w185/dmXIeZ3ARlB6z52MXuc8VpLoWut.jpg"
+    ],
+    "dateFinished": null,
+    "kdramaGroup": null
+  },
+  {
     "title": "Melting Me Softly",
     "rating": 2,
     "year": "2019",
