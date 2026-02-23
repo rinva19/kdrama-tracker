@@ -2005,7 +2005,7 @@
       "https://image.tmdb.org/t/p/w185/q24P4pmtWGhe08T7rTkoDc5EC1p.jpg",
       "https://image.tmdb.org/t/p/w185/zVOzETmSY8weWgvyh5KCfSyDSA7.jpg",
       "https://image.tmdb.org/t/p/w185/zDzNaoUfIJt2mCPyvwka9pcbwZU.jpg",
-      "https://image.tmdb.org/t/p/w185/e1xniEDeXrVtJD8Hu4Z9g6ewIz4.jpg",
+      "https://media.themoviedb.org/t/p/w600_and_h900_face/4tc3O5ewRk0Z4eQuaiJhl0ppzAR.jpg",
       null
     ],
     "actressImages": [
@@ -3906,7 +3906,7 @@
     "actorImages": [
       "https://image.tmdb.org/t/p/w185/oGOpjHfwifYd3hVohVFbxmA7Aoe.jpg",
       "https://image.tmdb.org/t/p/w185/bZKB6fXWS7mBWoOBsXlLx0P36hJ.jpg",
-      "https://image.tmdb.org/t/p/w185/e1xniEDeXrVtJD8Hu4Z9g6ewIz4.jpg",
+      "https://media.themoviedb.org/t/p/w600_and_h900_face/4tc3O5ewRk0Z4eQuaiJhl0ppzAR.jpg",
       null,
       null,
       "https://image.tmdb.org/t/p/w185/iQhXXV8Wsv2ZHifZqaIm1fJsW7F.jpg"
@@ -4833,7 +4833,7 @@
     "actorImages": [
       "https://image.tmdb.org/t/p/w185/cB95no6uPnMu5FdlVWK3cO9k5xR.jpg",
       "https://image.tmdb.org/t/p/w185/eDjWMBsAkUE7D4u0KjQcpzyNfoj.jpg",
-      "https://image.tmdb.org/t/p/w185/e1xniEDeXrVtJD8Hu4Z9g6ewIz4.jpg",
+      "https://media.themoviedb.org/t/p/w600_and_h900_face/4tc3O5ewRk0Z4eQuaiJhl0ppzAR.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/gBI4xgvtCBLTLz25jA6JgB0xccd.jpg",
       "https://media.themoviedb.org/t/p/w180_and_h180_face/pl5qsHEGH9beFQwNUXMLYGgn17J.jpg",
@@ -7680,7 +7680,7 @@
   },
   {
     "title": "Positively Yours",
-    "rating": null,
+    "rating": 3,
     "year": "2026",
     "genres": [
       "Comedy",
@@ -7689,7 +7689,7 @@
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/6lnM7PecwSEyYjrWr2nQzmmZaDU.jpg",
     "plotSummary": "A man and a woman who swore off marriage find their carefully controlled lives overturned after a one-night mistake forces them into an unexpected, reverse romance neither planned nor wanted.\n",
-    "status": "In Progress",
+    "status": "Watched",
     "channel": [
       "Viki"
     ],
@@ -7709,7 +7709,7 @@
       "https://image.tmdb.org/t/p/w185/dmXIeZ3ARlB6z52MXuc8VpLoWut.jpg",
       "https://image.tmdb.org/t/p/w185/ze3YYJEKe11TU8LMgQ7ispcu2Nj.jpg"
     ],
-    "dateFinished": null,
+    "dateFinished": "2026-02-22",
     "kdramaGroup": null
   },
   {
@@ -7890,7 +7890,7 @@
       "https://image.tmdb.org/t/p/w185/bZKB6fXWS7mBWoOBsXlLx0P36hJ.jpg",
       "https://image.tmdb.org/t/p/w185/cS9o926nFrFaiWPGUXC07gSFGTA.jpg",
       "https://image.tmdb.org/t/p/w185/jAk8EhqNnflSWltcJuv5nE4MpTu.jpg",
-      "https://image.tmdb.org/t/p/w185/e1xniEDeXrVtJD8Hu4Z9g6ewIz4.jpg",
+      "https://media.themoviedb.org/t/p/w600_and_h900_face/4tc3O5ewRk0Z4eQuaiJhl0ppzAR.jpg",
       "https://image.tmdb.org/t/p/w185/oGVs2OmYTyXR0KT9xvzVWCAKx8t.jpg",
       "https://image.tmdb.org/t/p/w185/gG3aMwf9OX6eqEtMUODlKU5MqtR.jpg",
       "https://image.tmdb.org/t/p/w185/zsFLX87yKye13rW7YZ2ZmjlH7Gy.jpg"
@@ -7961,7 +7961,7 @@
   },
   {
     "title": "The Art of Sarah",
-    "rating": null,
+    "rating": 1,
     "year": "2026",
     "genres": [
       "Drama"
@@ -7969,7 +7969,7 @@
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/nP2PRGSmLdbZtQtoXPPppcDAsNw.jpg",
     "plotSummary": "A body found in the middle of town. A luxe label on the rise. A detective tests every stitch of a woman's story that keeps changing. What really happened?\n",
-    "status": "In Progress",
+    "status": "Abandoned",
     "channel": [
       "Netflix"
     ],
@@ -7985,7 +7985,7 @@
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/cuCFjBn3SpWyhIfBy9TupzvTrmp.jpg"
     ],
-    "dateFinished": null,
+    "dateFinished": "2026-02-22",
     "kdramaGroup": null
   },
   {
@@ -8132,7 +8132,7 @@
     ],
     "actorImages": [
       "https://image.tmdb.org/t/p/w185/yK9IFRCppGV6UQw3ALfkmRnNqhv.jpg",
-      "https://image.tmdb.org/t/p/w185/e1xniEDeXrVtJD8Hu4Z9g6ewIz4.jpg",
+      "https://media.themoviedb.org/t/p/w600_and_h900_face/4tc3O5ewRk0Z4eQuaiJhl0ppzAR.jpg",
       "https://image.tmdb.org/t/p/w185/gEk7Wvu5M7EhfHPmz1ZmiAI3ez.jpg",
       "https://media.themoviedb.org/t/p/w600_and_h900_face/wGNCbshSo0YBcrsUCxfWMR9DLNr.jpg",
       null
@@ -10068,7 +10068,7 @@
     ],
     "actorImages": [
       "https://image.tmdb.org/t/p/w185/mH5JOQWFy5XyR0AX61Pqz8dfGVl.jpg",
-      "https://image.tmdb.org/t/p/w185/e1xniEDeXrVtJD8Hu4Z9g6ewIz4.jpg"
+      "https://media.themoviedb.org/t/p/w600_and_h900_face/4tc3O5ewRk0Z4eQuaiJhl0ppzAR.jpg"
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/25SZEv7gv3FvipAFgcqrHaIYCKp.jpg",
@@ -10685,7 +10685,7 @@
     ],
     "actorImages": [
       "https://image.tmdb.org/t/p/w185/afgwHQJ3BP6ygM2ZUUZO60U84q0.jpg",
-      "https://image.tmdb.org/t/p/w185/e1xniEDeXrVtJD8Hu4Z9g6ewIz4.jpg",
+      "https://media.themoviedb.org/t/p/w600_and_h900_face/4tc3O5ewRk0Z4eQuaiJhl0ppzAR.jpg",
       "https://image.tmdb.org/t/p/w185/gBI4xgvtCBLTLz25jA6JgB0xccd.jpg",
       "https://image.tmdb.org/t/p/w185/ysB2JatlYtEHffdujEn7BZuNRXU.jpg",
       "https://image.tmdb.org/t/p/w185/yK9IFRCppGV6UQw3ALfkmRnNqhv.jpg"
