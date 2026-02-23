@@ -5642,7 +5642,7 @@
       "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
     ],
     "actressImages": [
-      null,
+      "https://i.mydramalist.com/yWnW8k_5c.jpg",
       "https://image.tmdb.org/t/p/w185/kdS3LYZ30fx4NL7coPJ3WUUAlLx.jpg",
       "https://image.tmdb.org/t/p/w185/yYKruT2OpZVxIwwHzMoKQmywq3Z.jpg",
       null,
@@ -6121,7 +6121,6 @@
     "actresses": [
       "Ku Hye Sun",
       "Kim So Eun",
-      "Lee Ming Jung",
       "Kim Young Ok",
       "Lim Ye Jin"
     ],
@@ -6136,7 +6135,6 @@
     "actressImages": [
       "https://asianwiki.com/images/8/83/Ku_Hye-Sun-BIFF_14.jpg",
       "https://media.themoviedb.org/t/p/w600_and_h900_face/kXl9W2FGBnHMq2UeCtaYeG1Do4O.jpg",
-      null,
       null,
       null
     ],
@@ -6732,7 +6730,7 @@
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/njczzJJnugd9y7p5CF3XW7dcyYK.jpg",
-      null,
+      "https://i.mydramalist.com/yWnW8k_5c.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/bDdGh3m6zIwHZ3Wg6TNF5Qm0MAV.jpg"
     ],
@@ -7091,7 +7089,6 @@
       "Cheon Ho Jin"
     ],
     "actresses": [
-      "Lee Ming Jung",
       "Lee Jung Eun",
       "Kim So Ra",
       "Cha Hwa Yeon"
@@ -7105,7 +7102,6 @@
       "https://image.tmdb.org/t/p/w185/eS5jGpHrBDu3wtHHEfUNkwnZ0uE.jpg"
     ],
     "actressImages": [
-      null,
       "https://asianwiki.com/images/b/bb/Lee_Jung-Eun_%281969%29-p01.jpg",
       "https://image.tmdb.org/t/p/w185/tUGErS9LdT7bPEibgEfI7H7B7r5.jpg",
       "https://image.tmdb.org/t/p/w185/1CP9PtTSxHnuGHbilPMUCnPqw0Z.jpg"
