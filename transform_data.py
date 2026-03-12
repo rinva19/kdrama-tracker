@@ -56,22 +56,34 @@ for record in drama_records:
     actress_images = [a['profileImage'] for a in actress_data]
     
     clean_drama = {
-        'title': fields.get('Title', 'Unknown'),
-        'rating': fields.get('Rating'),
-        'year': fields.get('Year Released'),
-        'genres': fields.get('Genre', []),
-        'country': fields.get('Country of Origin'),
-        'poster': fields.get('Poster URL'),
-        'plotSummary': fields.get('Plot Summary', ''),
-        'status': fields.get('Viewing Status', ['Unknown'])[0],
-        'channel': fields.get('Channel', []),
-        'actors': actor_names,
-        'actresses': actress_names,
-        'actorImages': actor_images,
-        'actressImages': actress_images,
-        'dateFinished': fields.get('Date Finished'),
-        'kdramaGroup': fields.get('Kdrama Mamas'),
-    }
+    'title': fields.get('Title', 'Unknown'),
+    'rating': fields.get('Rating'),
+    'year': fields.get('Year Released'),
+    'genres': fields.get('Genre', []),
+    'country': fields.get('Country of Origin'),
+    'poster': fields.get('Poster URL'),
+    'plotSummary': fields.get('Plot Summary', ''),
+    'status': fields.get('Viewing Status', ['Unknown'])[0],
+    'channel': fields.get('Channel', []),
+    'actors': actor_names,
+    'actresses': actress_names,
+    'actorImages': actor_images,
+    'actressImages': actress_images,
+    'dateFinished': sorted(filter(None, [
+        fields.get('F1'),
+        fields.get('F2'),
+        fields.get('F3'),
+        fields.get('F4'),
+        fields.get('F5'),
+    ]))[-1] if any([
+        fields.get('F1'),
+        fields.get('F2'),
+        fields.get('F3'),
+        fields.get('F4'),
+        fields.get('F5'),
+    ]) else None,
+    'kdramaGroup': fields.get('Kdrama Mamas'),
+}
     
     clean_dramas.append(clean_drama)
 
