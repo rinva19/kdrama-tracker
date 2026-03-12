@@ -82,6 +82,13 @@ for record in drama_records:
         fields.get('F4'),
         fields.get('F5'),
     ]) else None,
+    'watchCount': sum(1 for f in [
+        fields.get('F1'),
+        fields.get('F2'),
+        fields.get('F3'),
+        fields.get('F4'),
+        fields.get('F5'),
+    ] if f),
     'kdramaGroup': fields.get('Kdrama Mamas'),
 }
     
