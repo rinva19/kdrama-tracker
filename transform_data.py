@@ -69,7 +69,26 @@ for record in drama_records:
         'actresses': actress_names,
         'actorImages': actor_images,
         'actressImages': actress_images,
-        'dateFinished': fields.get('Date Finished'),
+        'dateFinished': sorted(filter(None, [
+            fields.get('F1'),
+            fields.get('F2'),
+            fields.get('F3'),
+            fields.get('F4'),
+            fields.get('F5'),
+        ]))[-1] if any([
+            fields.get('F1'),
+            fields.get('F2'),
+            fields.get('F3'),
+            fields.get('F4'),
+            fields.get('F5'),
+        ]) else None,
+        'watchCount': sum(1 for f in [
+            fields.get('F1'),
+            fields.get('F2'),
+            fields.get('F3'),
+            fields.get('F4'),
+            fields.get('F5'),
+        ] if f),
         'kdramaGroup': fields.get('Kdrama Mamas'),
     }
     
