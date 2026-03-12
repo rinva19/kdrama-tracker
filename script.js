@@ -57,6 +57,9 @@ function displayDramas(dramas) {
                     <div class="rating">${rating}</div>
                     <div>${drama.year || 'Year unknown'}</div>
                     <div>${drama.country || ''}</div>
+                    <div>${drama.dateFinished 
+                        ? `Finished: ${new Date(drama.dateFinished).toLocaleDateString('en-US', {month: 'short', year: 'numeric'})}${drama.watchCount > 1 ? ` (${drama.watchCount}x)` : ''}`
+                        : drama.status === 'Watching' ? 'In Progress' : ''}</div>
                     ${actors ? `<div>${actors}</div>` : ''}
                     ${actresses ? `<div>${actresses}</div>` : ''}
                     <div class="genres">${genres}</div>
