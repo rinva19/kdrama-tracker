@@ -9274,15 +9274,16 @@
   },
   {
     "title": "Love Between Lines",
-    "rating": null,
+    "rating": 3,
     "year": "2026",
     "genres": [
-      "Fantasy"
+      "Romance",
+      "Office"
     ],
     "country": "China",
     "poster": "https://i.mydramalist.com/PxmBER_4c.jpg",
-    "plotSummary": "",
-    "status": "In Progress",
+    "plotSummary": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.\n",
+    "status": "Watched",
     "channel": [
       "Viki"
     ],
@@ -9293,13 +9294,13 @@
       "Lu Yu Xiao"
     ],
     "actorImages": [
-      null
+      "https://i.mydramalist.com/oQplKk_5c.jpg"
     ],
     "actressImages": [
-      null
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LuYuxiao.png/500px-LuYuxiao.png"
     ],
-    "dateFinished": null,
-    "watchCount": 0,
+    "dateFinished": "2026-03-22",
+    "watchCount": 1,
     "kdramaGroup": null
   },
   {
