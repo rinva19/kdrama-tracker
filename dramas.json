@@ -795,13 +795,16 @@
   },
   {
     "title": "No Gain No Love",
-    "rating": null,
+    "rating": 3,
     "year": "2024",
-    "genres": [],
+    "genres": [
+      "Romance",
+      "Office"
+    ],
     "country": "Korea",
     "poster": "https://asianwiki.com/images/6/68/No_Gain_No_Love-mp01.jpeg",
-    "plotSummary": "",
-    "status": "In Progress",
+    "plotSummary": "Son Hae-Young ([Shin Min-A](https://asianwiki.com/Shin_Min-A)) is the type of person who doesn't want to lose money under any circumstance. When growing up, she had to share her mother's love with others. She often found her partners in relationships below her break even point. Now, Son Hae-Young faces the possibility of missing out on a job promotion at her workplace. To avoid such a loss, she makes a plan for a fake wedding. She recruits Kim Ji-Wook ([Kim Young-Dae](https://asianwiki.com/Kim_Young-Dae_(1996))) to be her fiance. Kim Ji-Wook works part-time as a cashier at a convenience store. He is the type of person who can't ignore people in need and tries to do the right thing. He is smooth with every customer at the convenience store, except for one person. That person is Son Hae-Young. When she suddenly asks him to become the fake groom at her wedding, he somehow accepts her offer.\n\n",
+    "status": "Watched",
     "channel": [
       "Amazon"
     ],
@@ -831,8 +834,8 @@
       null,
       "https://image.tmdb.org/t/p/w185/dt5bmKeG7qbvDwHrxFZFxiGc9fZ.jpg"
     ],
-    "dateFinished": null,
-    "watchCount": 0,
+    "dateFinished": "2026-05-11",
+    "watchCount": 1,
     "kdramaGroup": null
   },
   {
