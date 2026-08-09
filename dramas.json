@@ -878,8 +878,8 @@
       "Office"
     ],
     "country": "Korea",
-    "poster": null,
-    "plotSummary": "",
+    "poster": "https://asianwiki.com/images/a/a5/See_You_at_Work_Tomorro-p.jpg",
+    "plotSummary": "Kang Si-Woo (Seo In-Guk) appears to be a perfect guy, with good looks and self-discipline. Unfortunately, due to his cold and direct personality, he is known as the most prickly person at work. As a department manager at work, he oversees workers, including Cha Ji-Yoon (Park Ji-Hyun) who has worked there for 7 years. Cha Ji-Yoon is good enough at her job that she is respected by her co-workers. She experiences a slump in her daily life and is not in a romantic relationship, but her ordinary life gets swayed by her supervisor Kang Si-Woo.\u00a0\n",
     "status": "In Progress",
     "channel": [
       "Amazon"
@@ -2273,7 +2273,7 @@
       "Viki Pass+"
     ],
     "actors": [
-      "Jang Jin Young",
+      "Jin Young",
       "Cha Tae Hyun",
       "Kang Shin Il",
       "Choo Yeong Woo",
@@ -2304,7 +2304,9 @@
     "title": "Wednesday 3:30 pm",
     "rating": 1,
     "year": "2017",
-    "genres": [],
+    "genres": [
+      "Romance"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/mah6MWXjA46242GQqpeQhYT0J3Z.jpg",
     "plotSummary": "This drama tells the story of a woman who was dumped by her boyfriend and tries win to win back his heart by making him jealous. With her close male friend, she manipulates her social media to create a fake \u201clovestagram\u201d (love + Instagram). The two characters are childhood friends, and a sweet romance will unfold as they begin to live together.\n",
@@ -2344,7 +2346,7 @@
       "Ji Soo",
       "Kang Tae Oh",
       "Jung Yoon Suk",
-      "Jang Jin Young"
+      "Jin Young"
     ],
     "actresses": [
       "Jung Chae Yeon (Chaeyeon)",
@@ -3230,18 +3232,28 @@
     "title": "Sold Out On You",
     "rating": null,
     "year": "2026",
-    "genres": [],
+    "genres": [
+      "Romance"
+    ],
     "country": "Korea",
-    "poster": null,
-    "plotSummary": "",
+    "poster": "https://asianwiki.com/images/9/99/Sold_Out_On_You-p1.jpg",
+    "plotSummary": "Matthew Lee (Ahn Hyo-Seop) is young farmer nicknamed Quail. He speaks with a gruff tone, but he has a warm heart. He cultivates white-flowered nuri mushroom with great care. One day, Dam Ye-Jin (Chae Won-Bin) shows up during his tranquil routine. She is the top host for home shopping network Hit and she is personally obsessed with white-flowered nuri mushroom. She is here to renew their contract for the white-flowered nuri mushroom. No matter how many times he refuses, she persistently pursues him. Their relationship soon blossoms into romance.\u00a0\n",
     "status": "In Progress",
     "channel": [
       "Netflix"
     ],
-    "actors": [],
-    "actresses": [],
-    "actorImages": [],
-    "actressImages": [],
+    "actors": [
+      "Ahn Hyo Seop"
+    ],
+    "actresses": [
+      "Chae Won Bin"
+    ],
+    "actorImages": [
+      "https://image.tmdb.org/t/p/w185/ynu1x6RQnpKvsOLTvB2WhDo26D9.jpg"
+    ],
+    "actressImages": [
+      null
+    ],
     "dateFinished": null,
     "watchCount": 0,
     "kdramaGroup": null
@@ -3280,7 +3292,9 @@
     "title": "Newlywed Diary",
     "rating": 1,
     "year": "2017",
-    "genres": [],
+    "genres": [
+      "Slice of life"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/etzfsLpmY681Z9heJBf3XRKWPpD.jpg",
     "plotSummary": "Rather than focusing on virtual dating and virtual marriage, the PD\u2019s latest show takes on the task of filming a real celebrity couple and their new life as newlyweds.\n",
@@ -3306,7 +3320,9 @@
     "title": "Rich Man, Poor Woman",
     "rating": 1,
     "year": "2018",
-    "genres": [],
+    "genres": [
+      "Office"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/77PP7SfgONe8AgdTHXg3nHwExQo.jpg",
     "plotSummary": "A man who can\u2019t distinguish faces meets a woman who is unforgettable. Lee Yoo Chan is the founder and CEO of the IT company Next One, which has become the most desirable place to work. He suffers from a condition where he can\u2019t recognize faces, and this makes him very guarded and mistrustful of most people. Kim Bo Ra is the pride of her hometown on Jeju Island who came to Seoul to attend college. With her imminent graduation, her dream is to work for Next One. When Bo Ra meets Yoo Chan, will both their lives change in unexpected ways?\n",
@@ -4406,7 +4422,9 @@
     "title": "Chicago Typewriter",
     "rating": 1,
     "year": "2017",
-    "genres": [],
+    "genres": [
+      "Fantasy"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/1FLgKAjoa4dY3z31nTjZj3Dgr6q.jpg",
     "plotSummary": "Writers that lived under Japanese rule in the 1930's are reincarnated into a bestselling writer who is in a slump, a mysterious ghostwriter and an anti-fan of the bestselling writer.\n",
@@ -4609,7 +4627,7 @@
       "Yoo Yeon Seok",
       "Lee Han Wi",
       "Kim Kwang Kyu",
-      "Jang Jin Young",
+      "Jin Young",
       "Ko Gyung Pyo",
       "Son Ho Jun"
     ],
@@ -5730,7 +5748,9 @@
     "title": "The Lies Within (Everyone's Lies)",
     "rating": null,
     "year": "2019",
-    "genres": [],
+    "genres": [
+      "Drama"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/qinSC5tPqck8BIveuXzG7y7LpDd.jpg",
     "plotSummary": "Kim Seo-hui\u2019s life is changed forever when her politician father dies in a car crash and her husband disappears \u2013 all in one day. She enters the world of politics and join hands with small-town detective Jo Tae-sik to uncover the truth when she finds out that the car crash might not have been an accident after all.\n",
@@ -6902,7 +6922,9 @@
     "title": "Big Mouth",
     "rating": 1,
     "year": "2022",
-    "genres": [],
+    "genres": [
+      "Drama"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
     "plotSummary": "A lawyer with a ten-percent winning rate is caught up in a murder case and becomes the notorious and genius con artist, Big Mouse, overnight. In order to survive and protect his family, he tries to reveal the true colors of the privileged people involved in a huge conspiracy.\n",
@@ -7918,7 +7940,7 @@
       "Kwak Dong Yeon",
       "Ahn Bo Hyun",
       "Hwang In Yeop",
-      "Jang Jin Young"
+      "Jin Young"
     ],
     "actresses": [
       "Kim Yoo Jung"
@@ -7943,7 +7965,9 @@
     "title": "Dream",
     "rating": 2,
     "year": "2021",
-    "genres": [],
+    "genres": [
+      "Slice of life"
+    ],
     "country": "Korea",
     "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/11sqMYQRbfafStAoa2JpXDJWrF6.jpg",
     "plotSummary": "With hard work and dedication on lock, a group of homeless men trains to compete in a global tournament \u2014 despite a cranky coach.\n",
@@ -9225,7 +9249,7 @@
     ],
     "actors": [
       "Park Bo Gum",
-      "Jang Jin Young",
+      "Jin Young",
       "Kwak Dong Yeon",
       "Oh Eui Sik",
       "Kang Ki Doong",
@@ -9452,7 +9476,9 @@
     "title": "Star's Lover",
     "rating": 1,
     "year": "2008",
-    "genres": [],
+    "genres": [
+      "Slice of life"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/ccJ2OVfyeD9HA5IQofxUZ8oABca.jpg",
     "plotSummary": "Lee Ma Ri, a star actress, falls in love with Jung Woo Jin, but she realizes that he became interested in her after reading her popular travel essay, \u201cLovers in Asuka\u201d. Because of this, the ghostwriter for \u201cLovers in Asuka\u201d, Kim Chul Soo, gets called in by Ma Ri for private lessons about the details on the travel essay. However, Byung Joon, Chul Soo\u2019s friend and journalist, discovers that Chul Soo is the real writer of \u201cLovers in Asuka\u201d, and he suggests that Chul Soo should sell a story about Lee Ma Ri\u2019s personal life. This makes Chul Soo troubled because he was in desperate need of money for his sick sister. As Chul Soo realizes that he is no longer needed by Ma Ri, he decides to follow Byung Joon\u2019s suggestion. Woo Jin ends up proposing marriage to Ma Ri and prepares a documentary film based on \u201cLovers in Asuka\u201d. Chul Soo and Eun Young join in the project as writers, and Chul Soo begins to meet Ma Ri again during the filming.\n",
@@ -10081,18 +10107,28 @@
     "title": "Gimbap and Onigri ",
     "rating": null,
     "year": "2026",
-    "genres": [],
+    "genres": [
+      "Romance"
+    ],
     "country": "Korea",
-    "poster": null,
-    "plotSummary": "",
+    "poster": "https://noseinabook.co.uk/wp-content/uploads/2026/04/gimbap-onigiri-500x281.jpg",
+    "plotSummary": "Hase Taiga who has been working part-time at the small restaurant \"Tanomi\" for three years, was once a promising young man as the ace of the university's relay team, but his past was ruined by poor performance. Although he doesn't have any particular dreams at the moment, he is beginning to feel a sense of fulfillment in his work, such as being entrusted by the owner with coming up with new menu items. Meanwhile, Park Rin, from South Korea, a graduate student studying animation is busy working on her assignments.\n\nJust when she feels relieved after somehow managing to submit her assignment just before the deadline, she receives a notice to move out of her student dormitory... However, for a foreigner, finding housing in Japan is not an easy task, and she is exhausted both physically and mentally... Then the two have a chance encounter at Tanomi. Rin is moved by the onigiri Taiga serves her, and her hunger and tiredness are gradually satisfied. Taiga is captivated by Rin's smile as she eats them deliciously. And the moment their eyes meet, an irresistible thrill flows between them.\n",
     "status": "In Progress",
     "channel": [
       "Netflix"
     ],
-    "actors": [],
-    "actresses": [],
-    "actorImages": [],
-    "actressImages": [],
+    "actors": [
+      "Akaso Eiji"
+    ],
+    "actresses": [
+      "Kang Hye Won"
+    ],
+    "actorImages": [
+      null
+    ],
+    "actressImages": [
+      null
+    ],
     "dateFinished": null,
     "watchCount": 0,
     "kdramaGroup": null
@@ -10820,7 +10856,7 @@
       "Viki"
     ],
     "actors": [
-      "Jang Jin Young"
+      "Jin Young"
     ],
     "actresses": [
       "Jeon Yeo Bin"
@@ -11129,7 +11165,9 @@
     "title": "Put Your Head on my Shoulder",
     "rating": 3,
     "year": "2019",
-    "genres": [],
+    "genres": [
+      "Slice of life"
+    ],
     "country": "China",
     "poster": "https://image.tmdb.org/t/p/w500/zVYvodC12ZHGVPHX8LJjZHDERmK.jpg",
     "plotSummary": "As Si Tu Mo's graduation is nearing, she is confused about her future plans. Her ordinary days are suddenly shaken up when the genius Physics student Gu Wei Yi appears in her life. The two accidentally end up living together and chaos begins.\n",
@@ -11645,9 +11683,11 @@
   },
   {
     "title": "One More Time",
-    "rating": null,
+    "rating": 1,
     "year": "2016",
-    "genres": [],
+    "genres": [
+      "Fantasy"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/51eSrjttcpwSRuju7U35PHvQh5l.jpg",
     "plotSummary": "This fantasy drama follows an indie band singer who repeatedly undergoes unwanted time slips and the girlfriend he must save from an unlucky fate.\n",
@@ -12852,7 +12892,9 @@
     "title": "New Year Blues",
     "rating": 3,
     "year": "2021",
-    "genres": [],
+    "genres": [
+      "Slice of life"
+    ],
     "country": "Korea",
     "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/xUxaut94lkX9dxUhyCDC4BoScf7.jpg",
     "plotSummary": "Four different couples have a romantic week over New Year's Eve. Both coming out of failed marriages, Ji-ho and Hyo-young are not open to the possibility of new love, while Jin-ah heads to the other side of globe and encounters Jae-hun.\n",
@@ -14552,9 +14594,12 @@
   {
     "title": "Ghost Detective",
     "rating": null,
-    "year": null,
-    "genres": [],
-    "country": null,
+    "year": "2018",
+    "genres": [
+      "Drama",
+      "Mystery/Thriller"
+    ],
+    "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/bbGOIFF4QNyTDygDBqMQSc76Anr.jpg",
     "plotSummary": "Da Il, a ghost detective, meets a mysterious woman named Woo Hye and gets drawn into a strange case.\n",
     "status": "To Watch",
@@ -15988,8 +16033,10 @@
     "title": "Saimdang",
     "rating": 1,
     "year": "2017",
-    "genres": [],
-    "country": null,
+    "genres": [
+      "Historical"
+    ],
+    "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/ubVZJWnkfKjcLXduRweYY3u1wYn.jpg",
     "plotSummary": "An art history lecturer, unfairly disgraced for refusing to certify a suspicious painting, endeavors to set the record straight by exploring the mystery of a 16th-century artist using a diary that may lead her to the genuine painting.\n",
     "status": "Abandoned",
@@ -16581,9 +16628,11 @@
   },
   {
     "title": "Accidental Country Diary/Once Upon a Small Town",
-    "rating": null,
-    "year": null,
-    "genres": [],
+    "rating": 1,
+    "year": "2022",
+    "genres": [
+      "Drama"
+    ],
     "country": "Korea",
     "poster": "https://image.tmdb.org/t/p/w500/9DNkebzIQNAzr5YSi96RCZ0D3Q6.jpg",
     "plotSummary": "Against his wishes a veterinarian from the big city relocates to the countryside, where he meets a policewoman, a town insider with a friendly secret.\n",
@@ -17584,13 +17633,17 @@
       "Viki"
     ],
     "actors": [
-      "Jang Jin Young"
+      "Jin Young (Got 7)"
     ],
-    "actresses": [],
+    "actresses": [
+      "Kim Sa Rang"
+    ],
     "actorImages": [
-      "https://media.themoviedb.org/t/p/w180_and_h180_face/8NHVBNi1Jb7f0RujRLtjD2i05tc.jpg"
+      "https://asianwiki.com/images/7/72/Jin_Young-Got7-p01.jpeg"
     ],
-    "actressImages": [],
+    "actressImages": [
+      null
+    ],
     "dateFinished": null,
     "watchCount": 0,
     "kdramaGroup": null
