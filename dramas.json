@@ -12125,7 +12125,8 @@
       "Park Shin Hye",
       "Lee Sung Kyung",
       "Kim Young Ae",
-      "Pyo Ye Jin"
+      "Pyo Ye Jin",
+      "Lim Ji Yeon"
     ],
     "actorImages": [
       "https://asianwiki.com/images/9/9c/Kim_Rae-Won-P3.jpg",
@@ -12146,7 +12147,8 @@
       "https://image.tmdb.org/t/p/w185/wyTVX7GIfxCIHqWzTrOJ3AgO6bM.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/hxXVhuYkjneV4UCGazlYgNz5OU3.jpg",
-      "https://image.tmdb.org/t/p/w185/kgJP15cNNslxFT0kaI8MCra5lr8.jpg"
+      "https://image.tmdb.org/t/p/w185/kgJP15cNNslxFT0kaI8MCra5lr8.jpg",
+      "https://asianwiki.com/images/a/a7/Lim_Ji-Yeon-1990-p1.jpeg"
     ],
     "dateFinished": "2023-07-27",
     "watchCount": 1,
@@ -15100,16 +15102,32 @@
       "Time Travel"
     ],
     "country": "Korea",
-    "poster": null,
-    "plotSummary": "",
+    "poster": "https://asianwiki.com/File:My_Royal_Nemesis-p1.jpg",
+    "plotSummary": "Kang Dan-Sim (Lim Ji-Yeon) is known as Joseon's most villainous femme fatale and she is given poison by law. When she awakens, she finds herself in the year 2026 and in the body of Shin Seo-Ri, who works as an unknown actress.\nCha Se-Gye (Heo Nam-Jun) is the only heir to Chail Group, which is one of the leading companies in South Korea. He is notorious for his arrogant and rude behavior. One day, he is confronted by Shin Seo-Ri. She dressed like a shaman and acts like she is from the Joseon era.\u00a0\n",
     "status": "Watched",
     "channel": [
       "Netflix"
     ],
-    "actors": [],
-    "actresses": [],
-    "actorImages": [],
-    "actressImages": [],
+    "actors": [
+      "Heo Nam Jun",
+      "Jang Seung Jo",
+      "Kim Min Seok"
+    ],
+    "actresses": [
+      "Lim Ji Yeon",
+      "Kim Hae Sook",
+      "Baek Ji Won"
+    ],
+    "actorImages": [
+      "https://asianwiki.com/images/d/dc/Heo_Nam-Jun-1993-p1.jpg",
+      "https://image.tmdb.org/t/p/w185/eNuDu7SIBqgDRbaKajs3C5JXj2B.jpg",
+      "https://image.tmdb.org/t/p/w185/9ptg9PDXHPMxZ4Ul71ljJR2EGuo.jpg"
+    ],
+    "actressImages": [
+      "https://asianwiki.com/images/a/a7/Lim_Ji-Yeon-1990-p1.jpeg",
+      "https://image.tmdb.org/t/p/w185/dt5bmKeG7qbvDwHrxFZFxiGc9fZ.jpg",
+      "https://image.tmdb.org/t/p/w185/dKt6fEOXsCQddqGuFdpLcwsgBBp.jpg"
+    ],
     "dateFinished": "2026-06-21",
     "watchCount": 1,
     "kdramaGroup": null
