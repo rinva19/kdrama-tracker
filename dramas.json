@@ -839,6 +839,34 @@
     "kdramaGroup": null
   },
   {
+    "title": "See You At Work Tomorrow",
+    "rating": null,
+    "year": "2026",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Office"
+    ],
+    "country": "Korea",
+    "poster": null,
+    "plotSummary": "",
+    "status": "In Progress",
+    "channel": [
+      "Amazon"
+    ],
+    "actors": [
+      "Seo In Guk"
+    ],
+    "actresses": [],
+    "actorImages": [
+      "https://image.tmdb.org/t/p/w185/qXsdm6uDD3Je6JW9VfgCdg4FqYq.jpg"
+    ],
+    "actressImages": [],
+    "dateFinished": null,
+    "watchCount": 0,
+    "kdramaGroup": null
+  },
+  {
     "title": "Happiness",
     "rating": 4,
     "year": "2021",
@@ -3166,6 +3194,26 @@
     ],
     "dateFinished": "2026-05-30",
     "watchCount": 1,
+    "kdramaGroup": 9
+  },
+  {
+    "title": "Sold Out On You",
+    "rating": null,
+    "year": "2026",
+    "genres": [],
+    "country": "Korea",
+    "poster": null,
+    "plotSummary": "",
+    "status": "In Progress",
+    "channel": [
+      "Netflix"
+    ],
+    "actors": [],
+    "actresses": [],
+    "actorImages": [],
+    "actressImages": [],
+    "dateFinished": null,
+    "watchCount": 0,
     "kdramaGroup": null
   },
   {
@@ -10000,6 +10048,26 @@
     "kdramaGroup": null
   },
   {
+    "title": "Gimbap and Onigri ",
+    "rating": null,
+    "year": "2026",
+    "genres": [],
+    "country": "Korea",
+    "poster": null,
+    "plotSummary": "",
+    "status": "In Progress",
+    "channel": [
+      "Netflix"
+    ],
+    "actors": [],
+    "actresses": [],
+    "actorImages": [],
+    "actressImages": [],
+    "dateFinished": null,
+    "watchCount": 0,
+    "kdramaGroup": null
+  },
+  {
     "title": "Birth of a Beauty",
     "rating": 1,
     "year": "2014",
@@ -12665,7 +12733,7 @@
     ],
     "dateFinished": "2026-05-10",
     "watchCount": 1,
-    "kdramaGroup": 100
+    "kdramaGroup": null
   },
   {
     "title": "K2",
@@ -15018,6 +15086,31 @@
       null
     ],
     "dateFinished": "2021-06-21",
+    "watchCount": 1,
+    "kdramaGroup": null
+  },
+  {
+    "title": "My Royal Nemesis ",
+    "rating": 3,
+    "year": "2026",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Historical",
+      "Time Travel"
+    ],
+    "country": "Korea",
+    "poster": null,
+    "plotSummary": "",
+    "status": "Watched",
+    "channel": [
+      "Netflix"
+    ],
+    "actors": [],
+    "actresses": [],
+    "actorImages": [],
+    "actressImages": [],
+    "dateFinished": "2026-06-21",
     "watchCount": 1,
     "kdramaGroup": null
   },
