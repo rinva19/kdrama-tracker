@@ -500,6 +500,36 @@
     "kdramaGroup": null
   },
   {
+    "title": "The East Palace",
+    "rating": null,
+    "year": "2026",
+    "genres": [
+      "Historical"
+    ],
+    "country": "Korea",
+    "poster": "https://asianwiki.com/images/0/0b/The_East_Palace-p2.jpg",
+    "plotSummary": "Strange incidents take place within the palace. The King (Cho Seung-Woo) secretly calls for Gu-Cheon (Nam Joo-Hyuk) and Court Lady Saeng-Gang (Roh Yoon-Seo) and asks them to uncover the curse that lies within the palace of the Crown Prince. Gu-Cheon can traverse the world of ghosts and has a special ability to kill the ghosts with his sword. Court Lady Saeng-Gang was born with the ability to hear the sounds of ghosts. She considers her ability a lifelong curse, but using her special ability, she tries to uncover the secret of the palace with Gu-Cheon. An unimaginable word of darkness awaits for them.\u00a0\n",
+    "status": "In Progress",
+    "channel": [
+      "Netflix"
+    ],
+    "actors": [
+      "Nam Joo Hyuk"
+    ],
+    "actresses": [
+      "Roh Yoo Seo"
+    ],
+    "actorImages": [
+      "https://image.tmdb.org/t/p/w185/zQdkQio6SyNpKoudDLc17BRQDGD.jpg"
+    ],
+    "actressImages": [
+      "https://asianwiki.com/images/2/2a/Roh_Yoon-Seo-2000-p1.jpeg"
+    ],
+    "dateFinished": null,
+    "watchCount": 0,
+    "kdramaGroup": 100
+  },
+  {
     "title": "The Liar and His Lover",
     "rating": 3,
     "year": "2017",
@@ -11437,13 +11467,15 @@
       "Jung Kyung Ho"
     ],
     "actresses": [
-      "Jeon Do Yeon"
+      "Jeon Do Yeon",
+      "Roh Yoo Seo"
     ],
     "actorImages": [
       "https://image.tmdb.org/t/p/w185/fanLZsECF5nDy17HkhcdoLJjPaw.jpg"
     ],
     "actressImages": [
-      "https://image.tmdb.org/t/p/w185/ev2tT7ZbReE06rZy7SX0Mv8evZ7.jpg"
+      "https://image.tmdb.org/t/p/w185/ev2tT7ZbReE06rZy7SX0Mv8evZ7.jpg",
+      "https://asianwiki.com/images/2/2a/Roh_Yoon-Seo-2000-p1.jpeg"
     ],
     "dateFinished": "2023-03-08",
     "watchCount": 1,
@@ -15893,7 +15925,7 @@
     ],
     "country": "Korea",
     "poster": "https://upload.wikimedia.org/wikipedia/en/4/40/Soundtrack_1_%282022_TV_series%29.jpg",
-    "plotSummary": "Han Sun-Woo ([Park Hyung-Sik](https://asianwiki.com/Park_Hyung-Sik)) is a rookie photographer. He doesn\u2019t talk much, but he is a kind and warm-hearted man. He is friends with Lee Eun-Soo ([Han So-Hee](https://asianwiki.com/Han_So-Hee)). They have been close friends for 20 years. Meanwhile, Lee Eun-Soo works as a lyricist to make living. She has a honest and bright personality.\nDue to a reason, Han Sun-Woo and Lee Eun-Soo begin to live together at the same house for 2 weeks. Staying together, their relationship develops romantically.\n",
+    "plotSummary": "Han Sun-Woo (Park Hyung-Sik) is a rookie photographer. He doesn\u2019t talk much, but he is a kind and warm-hearted man. He is friends with Lee Eun-Soo (Han So-Hee). They have been close friends for 20 years. Meanwhile, Lee Eun-Soo works as a lyricist to make living. She has a honest and bright personality.\n\nDue to a reason, Han Sun-Woo and Lee Eun-Soo begin to live together at the same house for 2 weeks. Staying together, their relationship develops romantically.\n",
     "status": "Watched",
     "channel": [
       "Disney+"
