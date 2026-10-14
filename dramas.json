@@ -406,6 +406,24 @@
     "kdramaGroup": null
   },
   {
+    "title": "World of the Married",
+    "rating": null,
+    "year": null,
+    "genres": [],
+    "country": "Korea",
+    "poster": null,
+    "plotSummary": "",
+    "status": "In Progress",
+    "channel": [],
+    "actors": [],
+    "actresses": [],
+    "actorImages": [],
+    "actressImages": [],
+    "dateFinished": null,
+    "watchCount": 0,
+    "kdramaGroup": null
+  },
+  {
     "title": "Live Up To Your Name",
     "rating": 1,
     "year": "2017",
@@ -490,7 +508,7 @@
       "https://image.tmdb.org/t/p/w185/kRWfWYtbvp8vePjufKaI79l9mLw.jpg"
     ],
     "actressImages": [
-      null,
+      "https://asianwiki.com/images/b/bd/Lee_Se-Young-1992-pr1.jpeg",
       "https://image.tmdb.org/t/p/w185/u0hl8WSswFhKVaKwaMAERU0xUJk.jpg",
       "https://asianwiki.com/images/f/f2/Park_Si-Eun-2001-p1.jpg",
       "https://image.tmdb.org/t/p/w185/3enwSfEdl45EDADGr1465JYxZZY.jpg"
@@ -959,7 +977,7 @@
       "https://media.themoviedb.org/t/p/w180_and_h180_face/fmTh73oW5YKc39o0zHNIhiHS9p5.jpg"
     ],
     "actressImages": [
-      null,
+      "https://asianwiki.com/images/b/bd/Lee_Se-Young-1992-pr1.jpeg",
       "https://asianwiki.com/images/b/bc/Cha_Mi-Kyung-1965-p01.jpg"
     ],
     "dateFinished": null,
@@ -1508,7 +1526,8 @@
       "Jang Ki Yong",
       "Ko Gyung Pyo",
       "Choi Woo Sung",
-      "Kim Eung Soo"
+      "Kim Eung Soo",
+      "Kim Do Wan"
     ],
     "actresses": [
       "Hyeri",
@@ -1522,7 +1541,8 @@
       "https://image.tmdb.org/t/p/w185/Gc3gcQLMCkR3l0nQgQ3nUxVv1u.jpg",
       "https://image.tmdb.org/t/p/w185/71ey2m4Ono5wHYAl4cUjJvYwrzP.jpg",
       "https://image.tmdb.org/t/p/w185/hvGEeyCzV40cs54rM7EbzBV8RLD.jpg",
-      "https://image.tmdb.org/t/p/w185/rQK4S4x756pAaNsIGfaQISb8ZKi.jpg"
+      "https://image.tmdb.org/t/p/w185/rQK4S4x756pAaNsIGfaQISb8ZKi.jpg",
+      "https://asianwiki.com/images/e/ef/Kim_Do-Wan-1995-p1.jpeg"
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/levzPA6vtl5fDzkzeHq89Mf8pe6.jpg",
@@ -3438,7 +3458,7 @@
       "https://image.tmdb.org/t/p/w185/re9l43Jfh3G93LurFixQTTZe7Va.jpg"
     ],
     "actressImages": [
-      null,
+      "https://asianwiki.com/images/1/1b/Lee_Soo-Kyung-1982-p1.jpg",
       "https://image.tmdb.org/t/p/w185/cr3PvUEb116rnH6B9nALIigQlws.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/ze3YYJEKe11TU8LMgQ7ispcu2Nj.jpg",
@@ -3844,7 +3864,7 @@
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/hM5yRtYzL19TpskQDNmFUWruJDV.jpg",
       null,
-      null,
+      "https://asianwiki.com/images/9/93/Lee_Sung-Kyung-1990-p1.jpg",
       "https://image.tmdb.org/t/p/w185/1CP9PtTSxHnuGHbilPMUCnPqw0Z.jpg",
       "https://image.tmdb.org/t/p/w185/9jYDNQk0TpWMGFtVxT0lWbMYKnH.jpg"
     ],
@@ -5210,7 +5230,7 @@
       "https://image.tmdb.org/t/p/w185/12WIDy62GdxfwqsUtEwZ3PXhJIR.jpg",
       "https://image.tmdb.org/t/p/w185/30aZicvfKu8ey6YCFrThpD2lsLR.jpg",
       "https://image.tmdb.org/t/p/w185/xqdLnXuECfvhd4CHQJFhlyi032V.jpg",
-      null,
+      "https://asianwiki.com/images/9/93/Lee_Sung-Kyung-1990-p1.jpg",
       "https://image.tmdb.org/t/p/w185/levzPA6vtl5fDzkzeHq89Mf8pe6.jpg",
       "https://image.tmdb.org/t/p/w185/nfHLot4nBfqWQKwcXykeol4Owjb.jpg"
     ],
@@ -6281,7 +6301,7 @@
       "https://image.tmdb.org/t/p/w185/67YkqSOk6LSAoM6WzSeXgerM7nD.jpg",
       "https://image.tmdb.org/t/p/w185/2loUUZGfslGkGComTUMp6ON2Kuc.jpg",
       "https://image.tmdb.org/t/p/w185/25SZEv7gv3FvipAFgcqrHaIYCKp.jpg",
-      null,
+      "https://asianwiki.com/images/9/93/Lee_Sung-Kyung-1990-p1.jpg",
       "https://asianwiki.com/images/b/bb/Lee_Jung-Eun_%281969%29-p01.jpg",
       "https://image.tmdb.org/t/p/w185/yZUoMkzBxUjXsua8p6cFG8erR6F.jpg",
       "https://image.tmdb.org/t/p/w185/hqR7waJDYkOspnosemMkD2Wm4rO.jpg",
@@ -6932,14 +6952,16 @@
     "channel": [],
     "actors": [
       "Lee Jong Suk",
-      "Yang Kyung Won"
+      "Yang Kyung Won",
+      "Kim Do Wan"
     ],
     "actresses": [
       "Im Yoon Ah (Yoona)"
     ],
     "actorImages": [
       "https://asianwiki.com/images/9/9a/Lee_Jong-Suk-1989-p1.jpg",
-      "https://image.tmdb.org/t/p/w185/yWecuhTOp0b6zF2PdqmiUsrusTL.jpg"
+      "https://image.tmdb.org/t/p/w185/yWecuhTOp0b6zF2PdqmiUsrusTL.jpg",
+      "https://asianwiki.com/images/e/ef/Kim_Do-Wan-1995-p1.jpeg"
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/JzAuAv17bWkLxVtfi9YJvQJhZl.jpg"
@@ -8515,7 +8537,7 @@
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/5Op0Gx0DULFLHtGdWVdqnYdwkAS.jpg",
-      null,
+      "https://asianwiki.com/images/1/1b/Lee_Soo-Kyung-1982-p1.jpg",
       "https://image.tmdb.org/t/p/w185/cv8i4ALEabYkwnu68p5AdRTrMG9.jpg",
       null,
       "https://image.tmdb.org/t/p/w185/ze3YYJEKe11TU8LMgQ7ispcu2Nj.jpg",
@@ -8667,7 +8689,8 @@
       "Kim Won Hae",
       "Nam Da Reum",
       "Yeo Jin Goo",
-      "Kang You Seok"
+      "Kang You Seok",
+      "Kim Do Wan"
     ],
     "actresses": [
       "Bae Suzy",
@@ -8689,7 +8712,8 @@
       null,
       "https://image.tmdb.org/t/p/w185/qT6H3SVRXXlRyen9ifStY83Hd0u.jpg",
       "https://image.tmdb.org/t/p/w185/f9Gj12cCk66vdIaDVjltTGAZPC9.jpg",
-      "https://image.tmdb.org/t/p/w185/gIuAOI5uORQyk2KV6AeDfULZq7P.jpg"
+      "https://image.tmdb.org/t/p/w185/gIuAOI5uORQyk2KV6AeDfULZq7P.jpg",
+      "https://asianwiki.com/images/e/ef/Kim_Do-Wan-1995-p1.jpeg"
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/67YkqSOk6LSAoM6WzSeXgerM7nD.jpg",
@@ -8777,6 +8801,40 @@
     ],
     "dateFinished": "2023-10-28",
     "watchCount": 3,
+    "kdramaGroup": null
+  },
+  {
+    "title": "The Atypical Family",
+    "rating": 2,
+    "year": "2024",
+    "genres": [
+      "Fantasy",
+      "Family Drama",
+      "Romance"
+    ],
+    "country": "Korea",
+    "poster": "https://asianwiki.com/images/2/24/The_Atypical_Family-p.jpeg",
+    "plotSummary": "Bok Gwi-Ju (Jang Ki-Yong) and his family were born with different supernatural powers. Bok Gwi-Ju is able to travel back in time, but only to happy times in his life. He can't change the past, so he can only dwell on those happy moments. Bok Gwi-Ju becomes afflicted with depression and this leads him to lose his supernatural power. His family also loses their own powers due to modern day problems like insomnia, bulimia, and smartphone addiction. One day, Do Da-Hae (Chun Woo-Hee) happens to get involved with Bok Gwi-Ju and his family. She begins to live with them and change occurs.\u00a0\n",
+    "status": "Watched",
+    "channel": [
+      "Netflix"
+    ],
+    "actors": [
+      "Jang Ki Yong",
+      "Moon Woo Jin"
+    ],
+    "actresses": [
+      "Chun Woo Hee"
+    ],
+    "actorImages": [
+      "https://image.tmdb.org/t/p/w185/Gc3gcQLMCkR3l0nQgQ3nUxVv1u.jpg",
+      "https://image.tmdb.org/t/p/w185/jAk8EhqNnflSWltcJuv5nE4MpTu.jpg"
+    ],
+    "actressImages": [
+      null
+    ],
+    "dateFinished": "2026-10-08",
+    "watchCount": 1,
     "kdramaGroup": null
   },
   {
@@ -9032,7 +9090,7 @@
       "https://asianwiki.com/images/6/66/Kim_Jin-Woo-1983-p1.jpg"
     ],
     "actressImages": [
-      null,
+      "https://asianwiki.com/images/b/bd/Lee_Se-Young-1992-pr1.jpeg",
       "https://image.tmdb.org/t/p/w185/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg",
       "https://image.tmdb.org/t/p/w185/t1ezO6OG00qC6imqcUv36pAZXnv.jpg",
       "https://media.themoviedb.org/t/p/w180_and_h180_face/u86TkLLd1PLxAvCgSQvr89tWDWP.jpg"
@@ -9137,6 +9195,24 @@
     ],
     "dateFinished": "2025-04-08",
     "watchCount": 1,
+    "kdramaGroup": null
+  },
+  {
+    "title": "The Scandal",
+    "rating": null,
+    "year": null,
+    "genres": [],
+    "country": "Korea",
+    "poster": null,
+    "plotSummary": "",
+    "status": "In Progress",
+    "channel": [],
+    "actors": [],
+    "actresses": [],
+    "actorImages": [],
+    "actressImages": [],
+    "dateFinished": null,
+    "watchCount": 0,
     "kdramaGroup": null
   },
   {
@@ -10285,7 +10361,7 @@
       "https://image.tmdb.org/t/p/w185/uP18ldneBx5WcmHmvwoyGVSBArY.jpg"
     ],
     "actressImages": [
-      null
+      "https://asianwiki.com/images/b/bd/Lee_Se-Young-1992-pr1.jpeg"
     ],
     "dateFinished": null,
     "watchCount": 0,
@@ -10795,7 +10871,7 @@
       null
     ],
     "actressImages": [
-      null,
+      "https://asianwiki.com/images/9/93/Lee_Sung-Kyung-1990-p1.jpg",
       "https://media.themoviedb.org/t/p/w180_and_h180_face/u86TkLLd1PLxAvCgSQvr89tWDWP.jpg",
       "https://asianwiki.com/images/b/bb/Lee_Jung-Eun_%281969%29-p01.jpg",
       "https://image.tmdb.org/t/p/w185/alJdfroZqWMS7iR3YSKYzC5Y2ZC.jpg",
@@ -10834,7 +10910,7 @@
       "https://image.tmdb.org/t/p/w185/eCERu5t4CPocNhNEggoX8AqigKa.jpg"
     ],
     "actressImages": [
-      null,
+      "https://asianwiki.com/images/b/bd/Lee_Se-Young-1992-pr1.jpeg",
       null
     ],
     "dateFinished": "2024-01-09",
@@ -10942,7 +11018,7 @@
       "https://asianwiki.com/images/f/ff/Kang_Hoon-P1.jpg"
     ],
     "actressImages": [
-      null,
+      "https://asianwiki.com/images/b/bd/Lee_Se-Young-1992-pr1.jpeg",
       "https://image.tmdb.org/t/p/w185/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg",
       "https://image.tmdb.org/t/p/w185/5sDZDAAxgJVAi4fxfgKVKD6owaw.jpg",
       "https://image.tmdb.org/t/p/w185/gRCJ8381upfHDGgVKY5q80lkIOZ.jpg",
@@ -11233,6 +11309,45 @@
     "dateFinished": "2021-03-26",
     "watchCount": 1,
     "kdramaGroup": null
+  },
+  {
+    "title": "Take Charge of My Heart",
+    "rating": 3,
+    "year": "2026",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "country": "Korea",
+    "poster": "https://asianwiki.com/images/4/4e/Take_Charge_of_My_Heart-p1.jpg",
+    "plotSummary": "Baek Ho-Rang (Kim Young-Kwang) is an executive of TS Resort and a chaebol heir of the TS Group. He is currently in need of surgery for his artificial heart that is running low on power and is going through succession matters at TS Group. He happens to meet Na Bo-Bae (Chae Soo-Bin).\n\nNa Bo-Bae is a drama series writer. When she was a child, she was struck by lightning and gained mysterious electrical powers. Her electrical powers causes her to emit electricity that can easily shock anyone she touches. Because of this, she wears gloves and tries to keep a distance from other people. When Baek Ho-Rang and Na Bo-Bae meet, they accidentally share a kiss and Na Bo-Bae realizes her electricity doesn't hurt Baek Ho-Rang. She believes she has met the perfect person for her, a human glove for her, but Baek Ho-Rang just runs away from her.\n\nThey meet again at the hospital, when Baek Ho-Rang undergoes surgery for his artificial heart. A blackout happens at the hospital, but Baek Ho-Rang notices when Na Bo-Bae is nearby, his artificial heart's battery gets charged. Needing to keep his heart working for 3 more months, until his next surgery is scheduled, Baek Ho-Rang offers her a contract and their special relationship begins.\u00a0\n",
+    "status": "Watched",
+    "channel": [
+      "Netflix"
+    ],
+    "actors": [
+      "Kim Young Kwang"
+    ],
+    "actresses": [
+      "Chae Soo Bin",
+      "Kim Hye Eun",
+      "Kim Mi Kyung",
+      "Gong Min Jung",
+      "Kim Hee Jung"
+    ],
+    "actorImages": [
+      "https://image.tmdb.org/t/p/w185/z7tQSbWHEfXeWMYHNNDGXW9Idfl.jpg"
+    ],
+    "actressImages": [
+      "https://image.tmdb.org/t/p/w185/t8inEDMgceg8EFLvgglvXzemklf.jpg",
+      null,
+      "https://asianwiki.com/images/a/a8/Kim_Mi-Kyung_%281963%29-p01.jpg",
+      "https://asianwiki.com/images/2/2e/Gong_Min-Jung-1986-p1.jpg",
+      "https://image.tmdb.org/t/p/w185/behjSYCszuPWlZ0JMwOSVKb7W5y.jpg"
+    ],
+    "dateFinished": "2026-10-14",
+    "watchCount": 1,
+    "kdramaGroup": 11
   },
   {
     "title": "Moon River",
@@ -12109,9 +12224,13 @@
     "channel": [
       "Viki"
     ],
-    "actors": [],
+    "actors": [
+      "Kim Do Wan"
+    ],
     "actresses": [],
-    "actorImages": [],
+    "actorImages": [
+      "https://asianwiki.com/images/e/ef/Kim_Do-Wan-1995-p1.jpeg"
+    ],
     "actressImages": [],
     "dateFinished": null,
     "watchCount": 0,
@@ -12217,7 +12336,7 @@
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/wyTVX7GIfxCIHqWzTrOJ3AgO6bM.jpg",
-      null,
+      "https://asianwiki.com/images/9/93/Lee_Sung-Kyung-1990-p1.jpg",
       "https://image.tmdb.org/t/p/w185/hxXVhuYkjneV4UCGazlYgNz5OU3.jpg",
       "https://image.tmdb.org/t/p/w185/kgJP15cNNslxFT0kaI8MCra5lr8.jpg",
       "https://asianwiki.com/images/a/a7/Lim_Ji-Yeon-1990-p1.jpeg"
@@ -13019,7 +13138,7 @@
       "https://asianwiki.com/images/3/3d/Lee_Sang-Yeob-1983-p1.jpg"
     ],
     "actressImages": [
-      null,
+      "https://asianwiki.com/images/9/93/Lee_Sung-Kyung-1990-p1.jpg",
       "https://image.tmdb.org/t/p/w185/wVUF4VOOP2Dbvj4eYBq6cQPEKUu.jpg",
       "https://image.tmdb.org/t/p/w185/w5Da7gMMwmxgbBPjWkdZ7V6yAMX.jpg",
       "https://media.themoviedb.org/t/p/w180_and_h180_face/u86TkLLd1PLxAvCgSQvr89tWDWP.jpg"
@@ -14592,6 +14711,47 @@
     "kdramaGroup": null
   },
   {
+    "title": "Spooky in Love",
+    "rating": 2,
+    "year": "2026",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "country": "Korea",
+    "poster": "https://asianwiki.com/images/5/59/Spooky_in_Love-p1.jpg",
+    "plotSummary": "Cheon Yeo-Ri (Park Eun-Bin) is a chaebol heiress and hotel owner. She appears flawless on the outside, but, behind that, she holds an eerie secret. Her secret is that she sees ghosts.\n\nMa Gang-Uk (Yang Se-Jong) is an ace prosecutor with excellent physique, brilliant mind and righteous personality. He always obeys his principles and never backs down in the face of injustice. Cheon Yeo-Ri and Ma Gang-Uk form a unique and unexpected relationship through a strange encounter that follows accidentally and inevitably. They cooperate to solve cases by using their respective abilities. Their relationship also develops.\u00a0\n",
+    "status": "Watched",
+    "channel": [
+      "Netflix"
+    ],
+    "actors": [
+      "Yang Se Jong",
+      "Lee Joon Hyuk",
+      "Kim Do Wan"
+    ],
+    "actresses": [
+      "Park Eun Bin",
+      "Ye Soo Jung",
+      "Baek Ji Won",
+      "Cha Mi Kyung"
+    ],
+    "actorImages": [
+      "https://image.tmdb.org/t/p/w185/eDjWMBsAkUE7D4u0KjQcpzyNfoj.jpg",
+      null,
+      "https://asianwiki.com/images/e/ef/Kim_Do-Wan-1995-p1.jpeg"
+    ],
+    "actressImages": [
+      "https://image.tmdb.org/t/p/w185/fpMeZG7En6BUfNPNGmzZqJWKlCM.jpg",
+      "https://image.tmdb.org/t/p/w185/rwGPhu8Ge36eMkrOlzfdKKFargw.jpg",
+      "https://image.tmdb.org/t/p/w185/dKt6fEOXsCQddqGuFdpLcwsgBBp.jpg",
+      "https://asianwiki.com/images/b/bc/Cha_Mi-Kyung-1965-p01.jpg"
+    ],
+    "dateFinished": "2026-09-12",
+    "watchCount": 1,
+    "kdramaGroup": 10
+  },
+  {
     "title": "Ghost Detective",
     "rating": null,
     "year": "2018",
@@ -16042,13 +16202,15 @@
     "status": "Abandoned",
     "channel": [],
     "actors": [
-      "Song Seung-Heon"
+      "Song Seung-Heon",
+      "Yang Se Jong"
     ],
     "actresses": [
       "Lee Young Ae"
     ],
     "actorImages": [
-      "https://image.tmdb.org/t/p/w185/AloHkgRwhj3BzCKClXxPInjbW9R.jpg"
+      "https://image.tmdb.org/t/p/w185/AloHkgRwhj3BzCKClXxPInjbW9R.jpg",
+      "https://image.tmdb.org/t/p/w185/eDjWMBsAkUE7D4u0KjQcpzyNfoj.jpg"
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/3YRo3MwheRf7lR0ZNa4FG12RVRn.jpg"
@@ -16954,7 +17116,7 @@
     ],
     "actressImages": [
       "https://image.tmdb.org/t/p/w185/9IiR3lsMK0BkBJGeQFTeBoLxEQl.jpg",
-      null,
+      "https://asianwiki.com/images/9/93/Lee_Sung-Kyung-1990-p1.jpg",
       "https://media.themoviedb.org/t/p/w600_and_h900_face/zd5FDsiQkfpjdH5ZH1f3bgcx2Cq.jpg"
     ],
     "dateFinished": null,
@@ -17439,7 +17601,7 @@
       "https://image.tmdb.org/t/p/w185/3ssRq3sFFMMkDs7on66XSlJdnjQ.jpg"
     ],
     "actressImages": [
-      null
+      "https://asianwiki.com/images/b/bd/Lee_Se-Young-1992-pr1.jpeg"
     ],
     "dateFinished": null,
     "watchCount": 0,
